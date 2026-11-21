@@ -1,0 +1,816 @@
+player_id,player_name,name_variants,seasons,teams,stable_source
+1c2a64cd,A Ashish Reddy,A Ashish Reddy,2012; 2013; 2015; 2016,Deccan Chargers; Sunrisers Hyderabad,cricsheet_registry
+872b03f7,A Badoni,A Badoni,2022; 2023; 2024; 2025; 2026,Lucknow Super Giants,cricsheet_registry
+99b202b3,A Chandila,A Chandila,2012; 2013,Rajasthan Royals,cricsheet_registry
+e249fdaa,A Chopra,A Chopra,2007/08; 2009,Kolkata Knight Riders,cricsheet_registry
+18e6906e,A Choudhary,A Choudhary,2017,Royal Challengers Bengaluru,cricsheet_registry
+5b16a806,A Dananjaya,A Dananjaya,2018,Mumbai Indians,cricsheet_registry
+ddc0828d,A Flintoff,A Flintoff,2009,Chennai Super Kings,cricsheet_registry
+fcc21ace,A Kamboj,A Kamboj,2024; 2025; 2026,Chennai Super Kings; Mumbai Indians,cricsheet_registry
+0c2730df,A Kumble,A Kumble,2007/08; 2009; 2009/10,Royal Challengers Bengaluru,cricsheet_registry
+0890552f,A Manohar,A Manohar,2022; 2023; 2024; 2025,Gujarat Titans; Sunrisers Hyderabad,cricsheet_registry
+b2b4f545,A Mhatre,A Mhatre,2025; 2026,Chennai Super Kings,cricsheet_registry
+6b19d823,A Mishra,A Mishra,2007/08; 2009; 2009/10; 2011; 2012; 2013; 2014; 2015; 2016; 2017; 2018; 2019; 2020/21; 2021; 2023; 2024,Deccan Chargers; Delhi Capitals; Lucknow Super Giants; Sunrisers Hyderabad,cricsheet_registry
+66cf56a5,A Mithun,A Mithun,2009; 2009/10; 2011; 2012; 2013,Royal Challengers Bengaluru,cricsheet_registry
+6165bca6,A Mukund,A Mukund,2007/08; 2011; 2013,Chennai Super Kings; Royal Challengers Bengaluru,cricsheet_registry
+96fd40ae,A Nehra,A Nehra,2007/08; 2009; 2009/10; 2012; 2013; 2014; 2015; 2016; 2017,Chennai Super Kings; Delhi Capitals; Mumbai Indians; Pune Warriors India; Sunrisers Hyderabad,cricsheet_registry
+2503e881,A Nel,A Nel,2007/08,Mumbai Indians,cricsheet_registry
+acdc62f5,A Nortje,A Nortje,2020/21; 2021; 2022; 2023; 2024; 2025; 2026,Delhi Capitals; Kolkata Knight Riders; Lucknow Super Giants,cricsheet_registry
+d7017798,A Raghuvanshi,A Raghuvanshi,2024; 2025; 2026,Kolkata Knight Riders,cricsheet_registry
+5b040b81,A Singh,A Singh,2009; 2011; 2012,Rajasthan Royals,cricsheet_registry
+bd77eb62,A Symonds,A Symonds,2007/08; 2009; 2009/10; 2011,Deccan Chargers; Mumbai Indians,cricsheet_registry
+aa5d8c9e,A Tomar,A Tomar,2022,Kolkata Knight Riders,cricsheet_registry
+fdcb08c2,A Uniyal,A Uniyal,2009/10,Rajasthan Royals,cricsheet_registry
+14f96089,A Zampa,A Zampa,2016; 2017; 2020/21; 2023; 2025,Rajasthan Royals; Rising Pune Supergiants; Royal Challengers Bengaluru; Sunrisers Hyderabad,cricsheet_registry
+bff458c6,AA Bilakhia,AA Bilakhia,2009; 2009/10,Deccan Chargers,cricsheet_registry
+29d72eb2,AA Chavan,AA Chavan,2011; 2012; 2013,Rajasthan Royals,cricsheet_registry
+2815fe50,AA Jhunjhunwala,AA Jhunjhunwala,2009/10; 2011; 2012,Deccan Chargers; Pune Warriors India; Rajasthan Royals,cricsheet_registry
+16605a1b,AA Kazi,AA Kazi,2011,Royal Challengers Bengaluru,cricsheet_registry
+2d140b79,AA Kulkarni,AA Kulkarni,2024; 2026,Lucknow Super Giants,cricsheet_registry
+b69e69ed,AA Noffke,AA Noffke,2007/08,Royal Challengers Bengaluru,cricsheet_registry
+fa463154,AB Agarkar,AB Agarkar,2007/08; 2009; 2009/10; 2011; 2012; 2013,Delhi Capitals; Kolkata Knight Riders,cricsheet_registry
+d3a3e82d,AB Barath,AB Barath,2009/10,Punjab Kings,cricsheet_registry
+66b30f71,AB Dinda,AB Dinda,2007/08; 2009; 2009/10; 2011; 2012; 2013; 2014; 2015; 2016; 2017,Delhi Capitals; Kolkata Knight Riders; Pune Warriors India; Rising Pune Supergiants; Royal Challengers Bengaluru,cricsheet_registry
+16043342,AB McDonald,AB McDonald,2009; 2009/10; 2011; 2012; 2013,Delhi Capitals; Royal Challengers Bengaluru,cricsheet_registry
+c4487b84,AB de Villiers,AB de Villiers,2007/08; 2009; 2009/10; 2011; 2012; 2013; 2014; 2015; 2016; 2017; 2018; 2019; 2020/21; 2021,Delhi Capitals; Royal Challengers Bengaluru,cricsheet_registry
+1efb8a28,AC Blizzard,AC Blizzard,2011; 2012,Mumbai Indians,cricsheet_registry
+2b6e6dec,AC Gilchrist,AC Gilchrist,2007/08; 2009; 2009/10; 2011; 2012; 2013,Deccan Chargers; Punjab Kings,cricsheet_registry
+b552a935,AC Thomas,AC Thomas,2011; 2012,Pune Warriors India,cricsheet_registry
+864c199e,AC Voges,AC Voges,2009/10,Rajasthan Royals,cricsheet_registry
+92aeac25,AD Hales,AD Hales,2018,Sunrisers Hyderabad,cricsheet_registry
+3edb58fc,AD Mascarenhas,AD Mascarenhas,2007/08; 2009; 2009/10; 2012; 2013,Punjab Kings; Rajasthan Royals,cricsheet_registry
+896d78ad,AD Mathews,AD Mathews,2009; 2009/10; 2012; 2013; 2015; 2017,Delhi Capitals; Kolkata Knight Riders; Pune Warriors India,cricsheet_registry
+f10e94c4,AD Nath,AD Nath,2016; 2017; 2018; 2019,Gujarat Lions; Punjab Kings; Royal Challengers Bengaluru,cricsheet_registry
+bbd41817,AD Russell,AD Russell,2012; 2013; 2014; 2015; 2016; 2018; 2019; 2020/21; 2021; 2022; 2023; 2024; 2025,Delhi Capitals; Kolkata Knight Riders,cricsheet_registry
+350bb1b1,AF Milne,AF Milne,2016; 2017; 2021; 2022; 2026,Chennai Super Kings; Mumbai Indians; Rajasthan Royals; Royal Challengers Bengaluru,cricsheet_registry
+ef5da05c,AG Murtaza,AG Murtaza,2009/10; 2011; 2012; 2013,Mumbai Indians; Pune Warriors India,cricsheet_registry
+3a02626a,AG Paunikar,AG Paunikar,2009/10; 2011,Rajasthan Royals,cricsheet_registry
+b8d490fd,AJ Finch,AJ Finch,2009/10; 2011; 2012; 2013; 2014; 2015; 2016; 2017; 2018; 2020/21; 2022,Delhi Capitals; Gujarat Lions; Kolkata Knight Riders; Mumbai Indians; Pune Warriors India; Punjab Kings; Rajasthan Royals; Royal Challengers Bengaluru; Sunrisers Hyderabad,cricsheet_registry
+4d7f517e,AJ Hosein,AJ Hosein,2023; 2026,Chennai Super Kings; Sunrisers Hyderabad,cricsheet_registry
+ff1e12a0,AJ Turner,AJ Turner,2019; 2024,Lucknow Super Giants; Rajasthan Royals,cricsheet_registry
+7c7d63a2,AJ Tye,AJ Tye,2017; 2018; 2019; 2020/21; 2022,Gujarat Lions; Lucknow Super Giants; Punjab Kings; Rajasthan Royals,cricsheet_registry
+6a26221c,AK Markram,AK Markram,2021; 2022; 2023; 2024; 2025; 2026,Lucknow Super Giants; Punjab Kings; Sunrisers Hyderabad,cricsheet_registry
+8291f939,AL Menaria,AL Menaria,2011; 2012; 2013,Rajasthan Royals,cricsheet_registry
+9ca68676,AM Ghazanfar,AM Ghazanfar,2026,Mumbai Indians,cricsheet_registry
+a45a5e8d,AM Nayar,AM Nayar,2007/08; 2009; 2009/10; 2011; 2012; 2013; 2014,Mumbai Indians; Pune Warriors India; Punjab Kings; Rajasthan Royals,cricsheet_registry
+29e95537,AM Rahane,AM Rahane,2007/08; 2009; 2011; 2012; 2013; 2014; 2015; 2016; 2017; 2018; 2019; 2020/21; 2021; 2022; 2023; 2024; 2025; 2026,Chennai Super Kings; Delhi Capitals; Kolkata Knight Riders; Mumbai Indians; Rajasthan Royals; Rising Pune Supergiants,cricsheet_registry
+260fd380,AM Salvi,AM Salvi,2009; 2011,Delhi Capitals,cricsheet_registry
+2af1b6d2,AN Ahmed,AN Ahmed,2009/10; 2011; 2012; 2013; 2014; 2015,Mumbai Indians; Royal Challengers Bengaluru,cricsheet_registry
+7023d182,AN Ghosh,AN Ghosh,2009,Kolkata Knight Riders,cricsheet_registry
+dbc50253,AP Dole,AP Dole,2009/10,Rajasthan Royals,cricsheet_registry
+f4cb4f53,AP Majumdar,AP Majumdar,2012,Pune Warriors India,cricsheet_registry
+855a210c,AP Tare,AP Tare,2009/10; 2013; 2014; 2015; 2016; 2017; 2018,Delhi Capitals; Mumbai Indians; Sunrisers Hyderabad,cricsheet_registry
+afe3355a,AR Bawne,AR Bawne,2017,Delhi Capitals,cricsheet_registry
+2e171977,AR Patel,AR Patel,2013; 2014; 2015; 2016; 2017; 2018; 2019; 2020/21; 2021; 2022; 2023; 2024; 2025; 2026,Delhi Capitals; Mumbai Indians; Punjab Kings,cricsheet_registry
+b0946605,AS Joseph,AS Joseph,2019; 2022; 2023; 2024,Gujarat Titans; Mumbai Indians; Royal Challengers Bengaluru,cricsheet_registry
+db31895a,AS Rajpoot,AS Rajpoot,2013; 2016; 2017; 2018; 2019; 2020/21,Chennai Super Kings; Kolkata Knight Riders; Punjab Kings; Rajasthan Royals,cricsheet_registry
+c69a7b5c,AS Raut,AS Raut,2009; 2009/10; 2011,Rajasthan Royals,cricsheet_registry
+e4cdf230,AS Roy,AS Roy,2019; 2020/21; 2021; 2022; 2023; 2024; 2025; 2026,Kolkata Knight Riders; Mumbai Indians,cricsheet_registry
+b9be6507,AS Yadav,AS Yadav,2007/08,Deccan Chargers,cricsheet_registry
+69d03465,AT Carey,AT Carey,2020/21,Delhi Capitals,cricsheet_registry
+70d205c9,AT Rayudu,AT Rayudu,2009/10; 2011; 2012; 2013; 2014; 2015; 2016; 2017; 2018; 2019; 2020/21; 2021; 2022; 2023,Chennai Super Kings; Mumbai Indians,cricsheet_registry
+249d60c9,AU Rashid,AU Rashid,2021; 2023,Punjab Kings; Sunrisers Hyderabad,cricsheet_registry
+3ae3f034,AUK Pathan,AUK Pathan,2011; 2012,Royal Challengers Bengaluru,cricsheet_registry
+5708d0b6,AV Wankhade,AV Wankhade,2014,Mumbai Indians,cricsheet_registry
+cc777ffa,Abdul Basith,Abdul Basith,2023,Rajasthan Royals,cricsheet_registry
+8e514b4c,Abdul Samad,Abdul Samad,2020/21; 2021; 2022; 2023; 2024; 2025; 2026,Lucknow Super Giants; Sunrisers Hyderabad,cricsheet_registry
+888e32bf,Abdur Razzak,Abdur Razzak,2007/08,Royal Challengers Bengaluru,cricsheet_registry
+82c10dac,Abhinandan Singh,Abhinandan Singh,2026,Royal Challengers Bengaluru,cricsheet_registry
+f29185a1,Abhishek Sharma,Abhishek Sharma,2018; 2019; 2020/21; 2021; 2022; 2023; 2024; 2025; 2026,Delhi Capitals; Sunrisers Hyderabad,cricsheet_registry
+ad3b6e95,Abishek Porel,Abishek Porel,2023; 2024; 2025; 2026,Delhi Capitals,cricsheet_registry
+0a67aec0,Akash Deep,Akash Deep,2022; 2023; 2024; 2025,Lucknow Super Giants; Royal Challengers Bengaluru,cricsheet_registry
+4bd09374,Akash Madhwal,Akash Madhwal,2023; 2024; 2025,Mumbai Indians; Rajasthan Royals,cricsheet_registry
+b483905d,Akash Singh,Akash Singh,2021; 2023; 2025; 2026,Chennai Super Kings; Lucknow Super Giants; Rajasthan Royals,cricsheet_registry
+d8d67045,Akshat Raghuwanshi,Akshat Raghuwanshi,2026,Lucknow Super Giants,cricsheet_registry
+378daa89,Aman Hakim Khan,Aman Hakim Khan,2022; 2023,Delhi Capitals; Kolkata Knight Riders,cricsheet_registry
+d2340a43,Anand Rajan,Anand Rajan,2011; 2012; 2013,Deccan Chargers; Sunrisers Hyderabad,cricsheet_registry
+a3b0600d,Aniket Verma,Aniket Verma,2025; 2026,Sunrisers Hyderabad,cricsheet_registry
+7bb62642,Anirudh Singh,Anirudh Singh,2009/10,Deccan Chargers,cricsheet_registry
+24d94623,Ankit Sharma,Ankit Sharma,2012; 2013; 2014; 2015; 2016; 2017; 2018,Deccan Chargers; Rajasthan Royals; Rising Pune Supergiants; Sunrisers Hyderabad,cricsheet_registry
+f18ba07f,Ankit Soni,Ankit Soni,2017,Gujarat Lions,cricsheet_registry
+1399b39c,Anmolpreet Singh,Anmolpreet Singh,2019; 2021; 2022; 2023; 2024,Mumbai Indians; Sunrisers Hyderabad,cricsheet_registry
+c8f5f961,Anuj Rawat,Anuj Rawat,2021; 2022; 2023; 2024,Rajasthan Royals; Royal Challengers Bengaluru,cricsheet_registry
+69be866a,Anureet Singh,Anureet Singh,2009; 2015; 2016; 2017; 2018,Kolkata Knight Riders; Punjab Kings; Rajasthan Royals,cricsheet_registry
+44aac2f0,Arjun Tendulkar,Arjun Tendulkar,2023; 2024; 2026,Lucknow Super Giants; Mumbai Indians,cricsheet_registry
+12314277,Arshad Khan,Arshad Khan; Arshad Khan (2),2023; 2024; 2025; 2026,Gujarat Titans; Lucknow Super Giants; Mumbai Indians,cricsheet_registry
+244048f6,Arshdeep Singh,Arshdeep Singh,2019; 2020/21; 2021; 2022; 2023; 2024; 2025; 2026,Punjab Kings,cricsheet_registry
+50c09020,Ashok Sharma,Ashok Sharma,2025; 2026,Gujarat Titans; Rajasthan Royals,cricsheet_registry
+84d9c311,Ashutosh Sharma,Ashutosh Sharma,2024; 2025; 2026,Delhi Capitals; Punjab Kings,cricsheet_registry
+d45c29b1,Ashwani Kumar,Ashwani Kumar,2025; 2026,Mumbai Indians,cricsheet_registry
+1ac746c8,Atharva Taide,Atharva Taide,2023; 2024; 2025,Punjab Kings; Sunrisers Hyderabad,cricsheet_registry
+7c3c0337,Auqib Nabi,Auqib Nabi,2026,Delhi Capitals,cricsheet_registry
+eef2536f,Avesh Khan,Avesh Khan,2017; 2018; 2019; 2020/21; 2021; 2022; 2023; 2024; 2025; 2026,Delhi Capitals; Lucknow Super Giants; Rajasthan Royals; Royal Challengers Bengaluru,cricsheet_registry
+9a158001,Azhar Mahmood,Azhar Mahmood,2012; 2013; 2015,Kolkata Knight Riders; Punjab Kings,cricsheet_registry
+8f6dd463,Azmatullah Omarzai,Azmatullah Omarzai,2024; 2025; 2026,Gujarat Titans; Punjab Kings,cricsheet_registry
+af7dadf7,B Akhil,B Akhil,2007/08; 2009; 2009/10; 2011,Kochi Tuskers Kerala; Royal Challengers Bengaluru,cricsheet_registry
+5b627626,B Aparajith,B Aparajith,2015,Chennai Super Kings,cricsheet_registry
+5451a2c1,B Chipli,B Chipli,2007/08; 2011; 2012; 2013,Deccan Chargers; Delhi Capitals; Royal Challengers Bengaluru,cricsheet_registry
+50758325,B Geeves,B Geeves,2007/08,Delhi Capitals,cricsheet_registry
+ff1e68fa,B Indrajith,B Indrajith,2022,Kolkata Knight Riders,cricsheet_registry
+2e81a32d,B Kumar,B Kumar,2011; 2012; 2013; 2014; 2015; 2016; 2017; 2018; 2019; 2020/21; 2021; 2022; 2023; 2024; 2025; 2026,Pune Warriors India; Royal Challengers Bengaluru; Sunrisers Hyderabad,cricsheet_registry
+b2a79f17,B Laughlin,B Laughlin,2013; 2018,Chennai Super Kings; Rajasthan Royals,cricsheet_registry
+dd09ff8e,B Lee,B Lee,2007/08; 2009; 2009/10; 2011; 2012; 2013,Kolkata Knight Riders; Punjab Kings,cricsheet_registry
+449f4e3c,B Muzarabani,B Muzarabani,2026,Kolkata Knight Riders,cricsheet_registry
+d5130a30,B Sai Sudharsan,B Sai Sudharsan,2022; 2023; 2024; 2025; 2026,Gujarat Titans,cricsheet_registry
+6834d1f2,B Stanlake,B Stanlake,2017; 2018,Royal Challengers Bengaluru; Sunrisers Hyderabad,cricsheet_registry
+f4f0fafd,B Sumanth,B Sumanth,2009/10,Deccan Chargers,cricsheet_registry
+dc4686e6,BA Bhatt,BA Bhatt,2011; 2012; 2013,Punjab Kings,cricsheet_registry
+e087956b,BA Stokes,BA Stokes,2017; 2018; 2019; 2020/21; 2021; 2023,Chennai Super Kings; Rajasthan Royals; Rising Pune Supergiants,cricsheet_registry
+ea0cdc12,BAW Mendis,BAW Mendis,2007/08; 2009; 2009/10; 2013,Kolkata Knight Riders; Pune Warriors India,cricsheet_registry
+b8a55852,BB McCullum,BB McCullum,2007/08; 2009; 2009/10; 2011; 2012; 2013; 2014; 2015; 2016; 2017; 2018,Chennai Super Kings; Gujarat Lions; Kochi Tuskers Kerala; Kolkata Knight Riders; Royal Challengers Bengaluru,cricsheet_registry
+53f27a35,BB Samantray,BB Samantray,2012; 2013,Deccan Chargers; Sunrisers Hyderabad,cricsheet_registry
+d8b2f218,BB Sran,BB Sran,2015; 2016; 2017; 2018; 2019,Mumbai Indians; Punjab Kings; Rajasthan Royals; Sunrisers Hyderabad,cricsheet_registry
+2e11c706,BCJ Cutting,BCJ Cutting,2014; 2016; 2017; 2018; 2019,Mumbai Indians; Rajasthan Royals; Sunrisers Hyderabad,cricsheet_registry
+b56dc5f7,BE Hendricks,BE Hendricks,2014; 2015,Punjab Kings,cricsheet_registry
+e1b9f3a9,BJ Dwarshuis,BJ Dwarshuis,2026,Punjab Kings,cricsheet_registry
+b0c772ee,BJ Haddin,BJ Haddin,2011,Kolkata Knight Riders,cricsheet_registry
+b57f8a9a,BJ Hodge,BJ Hodge,2007/08; 2009; 2009/10; 2011; 2012; 2013; 2014,Kochi Tuskers Kerala; Kolkata Knight Riders; Rajasthan Royals,cricsheet_registry
+27af6414,BJ Rohrer,BJ Rohrer,2013,Delhi Capitals,cricsheet_registry
+5d1e7582,BKG Mendis,BKG Mendis,2025,Gujarat Titans,cricsheet_registry
+9868bc75,BMAJ Mendis,BMAJ Mendis,2013,Delhi Capitals,cricsheet_registry
+272d796e,BR Dunk,BR Dunk,2014,Mumbai Indians,cricsheet_registry
+c2dd89ea,BR Sharath,BR Sharath,2024,Gujarat Titans,cricsheet_registry
+f3171936,BW Hilfenhaus,BW Hilfenhaus,2012; 2014,Chennai Super Kings,cricsheet_registry
+871e9faf,Basil Thampi,Basil Thampi,2017; 2018; 2019; 2020/21; 2022,Gujarat Lions; Mumbai Indians; Sunrisers Hyderabad,cricsheet_registry
+c18496e1,Bipul Sharma,Bipul Sharma,2009/10; 2011; 2012; 2013; 2015; 2016; 2017,Punjab Kings; Sunrisers Hyderabad,cricsheet_registry
+133bbd61,Brijesh Sharma,Brijesh Sharma,2026,Rajasthan Royals,cricsheet_registry
+172dff15,C Bosch,C Bosch,2025; 2026,Mumbai Indians,cricsheet_registry
+fe366f34,C Connolly,C Connolly,2026,Punjab Kings,cricsheet_registry
+798934ea,C Ganapathy,C Ganapathy,2009/10,Chennai Super Kings,cricsheet_registry
+eaa76d3c,C Green,C Green,2023; 2024; 2026,Kolkata Knight Riders; Mumbai Indians; Royal Challengers Bengaluru,cricsheet_registry
+2eeb4370,C Madan,C Madan,2009/10,Mumbai Indians,cricsheet_registry
+af2c687b,C Munro,C Munro,2016; 2018; 2019,Delhi Capitals; Kolkata Knight Riders,cricsheet_registry
+f24ca2ba,C Nanda,C Nanda,2009,Mumbai Indians,cricsheet_registry
+2cdce1be,C Sakariya,C Sakariya,2021; 2022; 2023,Delhi Capitals; Rajasthan Royals,cricsheet_registry
+94d7f855,C de Grandhomme,C de Grandhomme,2017; 2018; 2019,Kolkata Knight Riders; Royal Challengers Bengaluru,cricsheet_registry
+c995d726,CA Ingram,CA Ingram,2011; 2019,Delhi Capitals,cricsheet_registry
+45eda7c8,CA Lynn,CA Lynn,2012; 2014; 2016; 2017; 2018; 2019; 2021,Deccan Chargers; Kolkata Knight Riders; Mumbai Indians,cricsheet_registry
+d4f9dbd4,CA Pujara,CA Pujara,2009/10; 2011; 2012; 2013; 2014,Kolkata Knight Riders; Punjab Kings; Royal Challengers Bengaluru,cricsheet_registry
+db584dad,CH Gayle,CH Gayle,2009; 2009/10; 2011; 2012; 2013; 2014; 2015; 2016; 2017; 2018; 2019; 2020/21; 2021,Kolkata Knight Riders; Punjab Kings; Royal Challengers Bengaluru,cricsheet_registry
+fb66ce1f,CH Morris,CH Morris,2013; 2015; 2016; 2017; 2018; 2019; 2020/21; 2021,Chennai Super Kings; Delhi Capitals; Rajasthan Royals; Royal Challengers Bengaluru,cricsheet_registry
+8abdf100,CJ Anderson,CJ Anderson,2014; 2015; 2017; 2018,Delhi Capitals; Mumbai Indians; Royal Challengers Bengaluru,cricsheet_registry
+1cb14aa4,CJ Dala,CJ Dala,2018,Delhi Capitals,cricsheet_registry
+9b4935c8,CJ Ferguson,CJ Ferguson,2011; 2012,Pune Warriors India,cricsheet_registry
+19b9f399,CJ Green,CJ Green,2020/21,Kolkata Knight Riders,cricsheet_registry
+ffe699c0,CJ Jordan,CJ Jordan,2016; 2017; 2018; 2020/21; 2021; 2022; 2023,Chennai Super Kings; Mumbai Indians; Punjab Kings; Royal Challengers Bengaluru; Sunrisers Hyderabad,cricsheet_registry
+94eac556,CJ McKay,CJ McKay,2012,Mumbai Indians,cricsheet_registry
+cfad138c,CK Kapugedera,CK Kapugedera,2007/08,Chennai Super Kings,cricsheet_registry
+d1c94b25,CK Langeveldt,CK Langeveldt,2009; 2009/10; 2011,Kolkata Knight Riders; Royal Challengers Bengaluru,cricsheet_registry
+d0513f63,CL White,CL White,2007/08; 2009/10; 2011; 2012; 2013,Deccan Chargers; Royal Challengers Bengaluru; Sunrisers Hyderabad,cricsheet_registry
+30a2649b,CM Gautam,CM Gautam,2013; 2014; 2015,Delhi Capitals; Mumbai Indians,cricsheet_registry
+e342e5fb,CR Brathwaite,CR Brathwaite,2016; 2017; 2018; 2019,Delhi Capitals; Kolkata Knight Riders; Sunrisers Hyderabad,cricsheet_registry
+4c5d73db,CR Woakes,CR Woakes,2017; 2018; 2021,Delhi Capitals; Kolkata Knight Riders; Royal Challengers Bengaluru,cricsheet_registry
+342d8ade,CRD Fernando,CRD Fernando,2007/08; 2009/10,Mumbai Indians,cricsheet_registry
+5b7ab5a9,CV Varun,CV Varun,2019; 2020/21; 2021; 2022; 2023; 2024; 2025; 2026,Kolkata Knight Riders; Punjab Kings,cricsheet_registry
+844e79d1,D Brevis,D Brevis,2022; 2024; 2025; 2026,Chennai Super Kings; Mumbai Indians,cricsheet_registry
+f0af99a7,D Ferreira,D Ferreira,2023; 2024; 2025; 2026,Delhi Capitals; Rajasthan Royals,cricsheet_registry
+8dc152d1,D Jansen,D Jansen,2023,Mumbai Indians,cricsheet_registry
+94bc776b,D Kalyankrishna,D Kalyankrishna,2007/08,Deccan Chargers,cricsheet_registry
+de7d833e,D Madushanka,D Madushanka,2026,Sunrisers Hyderabad,cricsheet_registry
+2c25d4f5,D Padikkal,D Padikkal,2020/21; 2021; 2022; 2023; 2024; 2025; 2026,Lucknow Super Giants; Rajasthan Royals; Royal Challengers Bengaluru,cricsheet_registry
+11614d87,D Pretorius,D Pretorius,2022; 2023,Chennai Super Kings,cricsheet_registry
+0264c10e,D Salunkhe,D Salunkhe,2007/08,Rajasthan Royals,cricsheet_registry
+aa8d28ae,D Wiese,D Wiese,2015; 2016; 2023,Kolkata Knight Riders; Royal Challengers Bengaluru,cricsheet_registry
+d7a57f75,D du Preez,D du Preez,2009,Royal Challengers Bengaluru,cricsheet_registry
+d67d5f00,DA Miller,DA Miller,2012; 2013; 2014; 2015; 2016; 2017; 2018; 2019; 2020/21; 2021; 2022; 2023; 2024; 2025; 2026,Delhi Capitals; Gujarat Titans; Lucknow Super Giants; Punjab Kings; Rajasthan Royals,cricsheet_registry
+6c79c098,DA Payne,DA Payne,2026,Sunrisers Hyderabad,cricsheet_registry
+dcce6f09,DA Warner,DA Warner,2009; 2009/10; 2011; 2012; 2013; 2014; 2015; 2016; 2017; 2019; 2020/21; 2021; 2022; 2023; 2024,Delhi Capitals; Sunrisers Hyderabad,cricsheet_registry
+2e9fdf9b,DAJ Bracewell,DAJ Bracewell,2012,Delhi Capitals,cricsheet_registry
+7050a1e7,DB Das,DB Das,2007/08; 2012; 2013,Kolkata Knight Riders,cricsheet_registry
+b720a5d6,DB Ravi Teja,DB Ravi Teja,2007/08; 2009; 2011; 2012; 2013,Deccan Chargers; Sunrisers Hyderabad,cricsheet_registry
+45c2196c,DE Bollinger,DE Bollinger,2009/10; 2011; 2012,Chennai Super Kings,cricsheet_registry
+cd8d2859,DG Nalkande,DG Nalkande,2022; 2023; 2024,Gujarat Titans,cricsheet_registry
+063b3673,DH Yagnik,DH Yagnik,2011; 2012; 2013; 2014,Rajasthan Royals,cricsheet_registry
+87e562a9,DJ Bravo,DJ Bravo,2007/08; 2009; 2009/10; 2011; 2012; 2013; 2014; 2015; 2016; 2018; 2019; 2020/21; 2021; 2022,Chennai Super Kings; Gujarat Lions; Mumbai Indians,cricsheet_registry
+39f82db3,DJ Harris,DJ Harris,2012,Deccan Chargers,cricsheet_registry
+73ad96ed,DJ Hooda,DJ Hooda,2015; 2016; 2017; 2018; 2019; 2020/21; 2021; 2022; 2023; 2024; 2025,Chennai Super Kings; Lucknow Super Giants; Punjab Kings; Rajasthan Royals; Sunrisers Hyderabad,cricsheet_registry
+fd835ab3,DJ Hussey,DJ Hussey,2007/08; 2009; 2009/10; 2011; 2012; 2013; 2014,Chennai Super Kings; Kolkata Knight Riders; Punjab Kings,cricsheet_registry
+a84468fe,DJ Jacobs,DJ Jacobs,2011; 2012,Mumbai Indians,cricsheet_registry
+ad9c32a2,DJ Malan,DJ Malan,2021,Punjab Kings,cricsheet_registry
+eade4650,DJ Mitchell,DJ Mitchell,2022; 2024,Chennai Super Kings; Rajasthan Royals,cricsheet_registry
+2c76b512,DJ Muthuswami,DJ Muthuswami,2015,Delhi Capitals,cricsheet_registry
+7d3937ed,DJ Thornely,DJ Thornely,2007/08,Mumbai Indians,cricsheet_registry
+7f048519,DJ Willey,DJ Willey,2018; 2022; 2023,Chennai Super Kings; Royal Challengers Bengaluru,cricsheet_registry
+c03c6200,DJG Sammy,DJG Sammy,2013; 2014; 2015,Royal Challengers Bengaluru; Sunrisers Hyderabad,cricsheet_registry
+1a156c88,DJM Short,DJM Short,2018,Rajasthan Royals,cricsheet_registry
+23eeb873,DL Chahar,DL Chahar,2016; 2017; 2018; 2019; 2020/21; 2021; 2023; 2024; 2025; 2026,Chennai Super Kings; Mumbai Indians; Rising Pune Supergiants,cricsheet_registry
+d7c6af50,DL Vettori,DL Vettori,2007/08; 2009; 2009/10; 2011; 2012,Delhi Capitals; Royal Challengers Bengaluru,cricsheet_registry
+14b14cd8,DM Bravo,DM Bravo,2017,Kolkata Knight Riders,cricsheet_registry
+e0351c86,DNT Zoysa,DNT Zoysa,2007/08,Deccan Chargers,cricsheet_registry
+df5a6881,DP Conway,DP Conway,2022; 2023; 2025,Chennai Super Kings,cricsheet_registry
+c404f58a,DP Nannes,DP Nannes,2009; 2009/10; 2011; 2013,Chennai Super Kings; Delhi Capitals; Royal Challengers Bengaluru,cricsheet_registry
+acd4f5dc,DP Vijaykumar,DP Vijaykumar,2007/08,Deccan Chargers,cricsheet_registry
+d18f9182,DPMD Jayawardene,DPMD Jayawardene,2007/08; 2009; 2009/10; 2011; 2012; 2013,Delhi Capitals; Kochi Tuskers Kerala; Punjab Kings,cricsheet_registry
+69762509,DR Martyn,DR Martyn,2009/10,Rajasthan Royals,cricsheet_registry
+caf69bf7,DR Sams,DR Sams,2020/21; 2021; 2022; 2023,Delhi Capitals; Lucknow Super Giants; Mumbai Indians; Royal Challengers Bengaluru,cricsheet_registry
+faa7365d,DR Shorey,DR Shorey,2018; 2019,Chennai Super Kings,cricsheet_registry
+35205dfc,DR Smith,DR Smith,2007/08; 2009; 2009/10; 2012; 2013; 2014; 2015; 2016; 2017,Chennai Super Kings; Deccan Chargers; Gujarat Lions; Mumbai Indians,cricsheet_registry
+d2a989fc,DS Kulkarni,DS Kulkarni,2007/08; 2009; 2009/10; 2011; 2012; 2013; 2014; 2015; 2016; 2017; 2018; 2019; 2020/21; 2021,Gujarat Lions; Mumbai Indians; Rajasthan Royals,cricsheet_registry
+53fe6ee4,DS Lehmann,DS Lehmann,2007/08,Rajasthan Royals,cricsheet_registry
+13fc5c6d,DS Rathi,DS Rathi,2025; 2026,Lucknow Super Giants,cricsheet_registry
+2a2e6343,DT Christian,DT Christian,2011; 2012; 2013; 2017; 2018; 2021,Deccan Chargers; Delhi Capitals; Rising Pune Supergiants; Royal Challengers Bengaluru,cricsheet_registry
+f48cf4da,DT Patil,DT Patil,2007/08,Royal Challengers Bengaluru,cricsheet_registry
+9e6032fa,DV Malewar,DV Malewar,2026,Mumbai Indians,cricsheet_registry
+8fd1a8f5,DW Steyn,DW Steyn,2007/08; 2009; 2009/10; 2011; 2012; 2013; 2014; 2015; 2016; 2019; 2020/21,Deccan Chargers; Gujarat Lions; Royal Challengers Bengaluru; Sunrisers Hyderabad,cricsheet_registry
+bcf325d2,Dhruv Jurel,Dhruv Jurel,2023; 2024; 2025; 2026,Rajasthan Royals,cricsheet_registry
+0ebfb1ad,E Lewis,E Lewis,2018; 2019; 2021; 2022,Lucknow Super Giants; Mumbai Indians; Rajasthan Royals,cricsheet_registry
+5750bcb4,E Malinga,E Malinga,2025; 2026,Sunrisers Hyderabad,cricsheet_registry
+d2a6c0e6,EJG Morgan,EJG Morgan,2009/10; 2011; 2013; 2015; 2016; 2017; 2020/21; 2021,Kolkata Knight Riders; Punjab Kings; Royal Challengers Bengaluru; Sunrisers Hyderabad,cricsheet_registry
+b274dbbd,ER Dwivedi,ER Dwivedi,2016,Gujarat Lions,cricsheet_registry
+dce2019b,F Behardien,F Behardien,2016,Punjab Kings,cricsheet_registry
+3355b542,F du Plessis,F du Plessis,2011; 2012; 2014; 2015; 2016; 2017; 2018; 2019; 2020/21; 2021; 2022; 2023; 2024; 2025,Chennai Super Kings; Delhi Capitals; Rising Pune Supergiants; Royal Challengers Bengaluru,cricsheet_registry
+b52ffbbd,FA Allen,FA Allen,2021; 2022,Mumbai Indians; Punjab Kings,cricsheet_registry
+bf74b130,FH Allen,FH Allen,2026,Kolkata Knight Riders,cricsheet_registry
+a7c226e1,FH Edwards,FH Edwards,2009,Deccan Chargers,cricsheet_registry
+c15e2193,FY Fazal,FY Fazal,2009/10; 2011,Rajasthan Royals,cricsheet_registry
+e9c7f0d0,Fazalhaq Farooqi,Fazalhaq Farooqi,2022; 2023; 2025,Rajasthan Royals; Sunrisers Hyderabad,cricsheet_registry
+3204c99f,G Coetzee,G Coetzee,2024; 2025,Gujarat Titans; Mumbai Indians,cricsheet_registry
+bb345e0b,G Gambhir,G Gambhir,2007/08; 2009; 2009/10; 2011; 2012; 2013; 2014; 2015; 2016; 2017; 2018,Delhi Capitals; Kolkata Knight Riders,cricsheet_registry
+f708a0bc,GB Hogg,GB Hogg,2012; 2013; 2015; 2016,Kolkata Knight Riders; Rajasthan Royals,cricsheet_registry
+72861603,GC Smith,GC Smith,2007/08; 2009; 2009/10; 2011,Pune Warriors India; Rajasthan Royals,cricsheet_registry
+a316d663,GC Viljoen,GC Viljoen,2019,Punjab Kings,cricsheet_registry
+ee7d0c82,GD McGrath,GD McGrath,2007/08,Delhi Capitals,cricsheet_registry
+9a46c4e5,GD Phillips,GD Phillips,2021; 2023; 2026,Gujarat Titans; Rajasthan Royals; Sunrisers Hyderabad,cricsheet_registry
+e5437608,GF Linde,GF Linde,2026,Lucknow Super Giants,cricsheet_registry
+94253925,GH Vihari,GH Vihari,2013; 2015; 2019,Delhi Capitals; Sunrisers Hyderabad,cricsheet_registry
+be869ccf,GHS Garton,GHS Garton,2021,Royal Challengers Bengaluru,cricsheet_registry
+5056011d,GJ Bailey,GJ Bailey,2009; 2009/10; 2014; 2015; 2016,Chennai Super Kings; Punjab Kings; Rising Pune Supergiants,cricsheet_registry
+b681e71e,GJ Maxwell,GJ Maxwell,2012; 2013; 2014; 2015; 2016; 2017; 2018; 2020/21; 2021; 2022; 2023; 2024; 2025,Delhi Capitals; Mumbai Indians; Punjab Kings; Royal Challengers Bengaluru,cricsheet_registry
+611926bc,GR Napier,GR Napier,2009,Mumbai Indians,cricsheet_registry
+1558d83b,GS Sandhu,GS Sandhu,2015,Delhi Capitals,cricsheet_registry
+890de8cb,Gagandeep Singh,Gagandeep Singh,2007/08,Punjab Kings,cricsheet_registry
+9f77963a,Gulbadin Naib,Gulbadin Naib,2024,Delhi Capitals,cricsheet_registry
+cc61ee8f,Gurjapneet Singh,Gurjapneet Singh,2026,Chennai Super Kings,cricsheet_registry
+6eb146d2,Gurkeerat Singh,Gurkeerat Singh,2012; 2013; 2015; 2016; 2017; 2019; 2020/21,Punjab Kings; Royal Challengers Bengaluru,cricsheet_registry
+99258814,Gurnoor Brar,Gurnoor Brar,2023,Punjab Kings,cricsheet_registry
+0ed0cdbf,H Das,H Das,2007/08,Deccan Chargers,cricsheet_registry
+235c2bb6,H Klaasen,H Klaasen,2018; 2019; 2023; 2024; 2025; 2026,Rajasthan Royals; Royal Challengers Bengaluru; Sunrisers Hyderabad,cricsheet_registry
+52294a79,H Sharma,H Sharma,2023; 2024,Royal Challengers Bengaluru,cricsheet_registry
+4ae1755b,HC Brook,HC Brook,2023,Sunrisers Hyderabad,cricsheet_registry
+9948e262,HE van der Dussen,HE van der Dussen,2022,Rajasthan Royals,cricsheet_registry
+e412cb64,HF Gurney,HF Gurney,2019,Kolkata Knight Riders,cricsheet_registry
+e1d1b294,HH Gibbs,HH Gibbs,2007/08; 2009; 2009/10; 2012,Deccan Chargers; Mumbai Indians,cricsheet_registry
+dbe50b21,HH Pandya,HH Pandya,2015; 2016; 2017; 2018; 2019; 2020/21; 2021; 2022; 2023; 2024; 2025; 2026,Gujarat Titans; Mumbai Indians,cricsheet_registry
+e798611a,HM Amla,HM Amla,2016; 2017,Punjab Kings,cricsheet_registry
+0c9652b0,HR Shokeen,HR Shokeen,2022; 2023,Mumbai Indians,cricsheet_registry
+f986ca1a,HV Patel,HV Patel,2012; 2014; 2015; 2016; 2017; 2018; 2019; 2020/21; 2021; 2022; 2023; 2024; 2025; 2026,Delhi Capitals; Punjab Kings; Royal Challengers Bengaluru; Sunrisers Hyderabad,cricsheet_registry
+8b5b6769,Harbhajan Singh,Harbhajan Singh,2007/08; 2009; 2009/10; 2011; 2012; 2013; 2014; 2015; 2016; 2017; 2018; 2019; 2021,Chennai Super Kings; Kolkata Knight Riders; Mumbai Indians,cricsheet_registry
+0bf15e52,Harmeet Singh,Harmeet Singh,2013,Rajasthan Royals,cricsheet_registry
+2a72fd4f,Harmeet Singh,Harmeet Singh,2009; 2009/10; 2011; 2012; 2013,Deccan Chargers; Punjab Kings,cricsheet_registry
+c05edf8e,Harpreet Brar,Harpreet Brar,2019; 2020/21; 2021; 2022; 2023; 2024; 2025; 2026,Punjab Kings,cricsheet_registry
+28c78fb3,Harpreet Singh,Harpreet Singh,2009/10; 2011; 2012; 2023; 2024,Kolkata Knight Riders; Pune Warriors India; Punjab Kings,cricsheet_registry
+25228673,Harsh Dubey,Harsh Dubey,2025; 2026,Sunrisers Hyderabad,cricsheet_registry
+77b1aa15,Harshit Rana,Harshit Rana,2022; 2023; 2024; 2025,Kolkata Knight Riders,cricsheet_registry
+ebcfef83,Himmat Singh,Himmat Singh,2025; 2026,Lucknow Super Giants,cricsheet_registry
+943fd425,I Malhotra,I Malhotra,2011,Deccan Chargers,cricsheet_registry
+5bb1a1c4,I Sharma,I Sharma,2007/08; 2009; 2009/10; 2011; 2013; 2014; 2015; 2016; 2017; 2019; 2020/21; 2021; 2023; 2024; 2025,Deccan Chargers; Delhi Capitals; Gujarat Titans; Kolkata Knight Riders; Punjab Kings; Rising Pune Supergiants; Sunrisers Hyderabad,cricsheet_registry
+ac5ae4af,I Udana,I Udana,2020/21,Royal Challengers Bengaluru,cricsheet_registry
+e0407c01,IC Pandey,IC Pandey,2013; 2014; 2015,Chennai Super Kings; Pune Warriors India,cricsheet_registry
+fdf7491e,IC Porel,IC Porel,2021,Punjab Kings,cricsheet_registry
+5fa06777,IK Pathan,IK Pathan,2007/08; 2009; 2009/10; 2011; 2012; 2013; 2014; 2016; 2017,Delhi Capitals; Gujarat Lions; Punjab Kings; Rising Pune Supergiants; Sunrisers Hyderabad,cricsheet_registry
+dded65e7,IR Jaggi,IR Jaggi,2011; 2012; 2017,Deccan Chargers; Kolkata Knight Riders,cricsheet_registry
+641ac5ff,IS Sodhi,IS Sodhi,2018; 2019,Rajasthan Royals,cricsheet_registry
+acee4cc4,Imran Tahir,Imran Tahir,2014; 2015; 2016; 2017; 2018; 2019; 2020/21; 2021,Chennai Super Kings; Delhi Capitals; Rising Pune Supergiants,cricsheet_registry
+85aae393,Iqbal Abdulla,Iqbal Abdulla,2007/08; 2009/10; 2011; 2012; 2013; 2014; 2015; 2016; 2017,Kolkata Knight Riders; Rajasthan Royals; Royal Challengers Bengaluru,cricsheet_registry
+752f7486,Ishan Kishan,Ishan Kishan,2016; 2017; 2018; 2019; 2020/21; 2021; 2022; 2023; 2024; 2025; 2026,Gujarat Lions; Mumbai Indians; Sunrisers Hyderabad,cricsheet_registry
+f663ef00,J Arunkumar,J Arunkumar,2007/08,Royal Challengers Bengaluru,cricsheet_registry
+7c503806,J Botha,J Botha,2009; 2011; 2012; 2013; 2015,Delhi Capitals; Kolkata Knight Riders; Rajasthan Royals,cricsheet_registry
+9b6e1b3f,J Fraser-McGurk,J Fraser-McGurk,2024; 2025,Delhi Capitals,cricsheet_registry
+9061a703,J Little,J Little,2023; 2024,Gujarat Titans,cricsheet_registry
+59559bc2,J Overton,J Overton,2025; 2026,Chennai Super Kings,cricsheet_registry
+4125d931,J Suchith,J Suchith,2015; 2016; 2017; 2019; 2020/21; 2021; 2022,Delhi Capitals; Mumbai Indians; Punjab Kings; Sunrisers Hyderabad,cricsheet_registry
+c64c2443,J Syed Mohammad,J Syed Mohammad,2011; 2012; 2013,Royal Challengers Bengaluru,cricsheet_registry
+dec8e038,J Theron,J Theron,2009/10; 2012; 2015,Deccan Chargers; Punjab Kings; Rajasthan Royals,cricsheet_registry
+81049310,J Yadav,J Yadav,2015; 2016; 2017; 2019; 2020/21; 2021; 2023,Delhi Capitals; Gujarat Titans; Mumbai Indians,cricsheet_registry
+dadbdb68,JA Duffy,JA Duffy,2026,Royal Challengers Bengaluru,cricsheet_registry
+c3d35165,JA Morkel,JA Morkel,2007/08; 2009; 2009/10; 2011; 2012; 2013; 2014; 2015; 2016,Chennai Super Kings; Delhi Capitals; Rising Pune Supergiants; Royal Challengers Bengaluru,cricsheet_registry
+1ee08e9a,JA Richardson,JA Richardson,2021; 2024,Delhi Capitals; Punjab Kings,cricsheet_registry
+5574750c,JC Archer,JC Archer,2018; 2019; 2020/21; 2023; 2025; 2026,Mumbai Indians; Rajasthan Royals,cricsheet_registry
+99b75528,JC Buttler,JC Buttler,2016; 2017; 2018; 2019; 2020/21; 2021; 2022; 2023; 2024; 2025; 2026,Gujarat Titans; Mumbai Indians; Rajasthan Royals,cricsheet_registry
+91ffa6c6,JD Ryder,JD Ryder,2009; 2011; 2012,Pune Warriors India; Royal Challengers Bengaluru,cricsheet_registry
+1e66c162,JD Unadkat,JD Unadkat,2009/10; 2011; 2012; 2013; 2014; 2015; 2016; 2017; 2018; 2019; 2020/21; 2021; 2022; 2023; 2024; 2025; 2026,Delhi Capitals; Kolkata Knight Riders; Lucknow Super Giants; Mumbai Indians; Rajasthan Royals; Rising Pune Supergiants; Royal Challengers Bengaluru; Sunrisers Hyderabad,cricsheet_registry
+3eac9d95,JDP Oram,JDP Oram,2007/08; 2009; 2011; 2013,Chennai Super Kings; Mumbai Indians; Rajasthan Royals,cricsheet_registry
+9219eff0,JDS Neesham,JDS Neesham,2014; 2020/21; 2021; 2022,Delhi Capitals; Mumbai Indians; Punjab Kings; Rajasthan Royals,cricsheet_registry
+a343262c,JE Root,JE Root,2023,Rajasthan Royals,cricsheet_registry
+4180d897,JE Taylor,JE Taylor,2011,Pune Warriors India,cricsheet_registry
+cf73ad76,JEC Franklin,JEC Franklin,2011; 2012,Mumbai Indians,cricsheet_registry
+3c55c703,JG Bethell,JG Bethell,2025; 2026,Royal Challengers Bengaluru,cricsheet_registry
+86dc8f2e,JH Kallis,JH Kallis,2007/08; 2009; 2009/10; 2011; 2012; 2013; 2014,Kolkata Knight Riders; Royal Challengers Bengaluru,cricsheet_registry
+462411b3,JJ Bumrah,JJ Bumrah,2013; 2014; 2015; 2016; 2017; 2018; 2019; 2020/21; 2021; 2022; 2024; 2025; 2026,Mumbai Indians,cricsheet_registry
+d1c36f5c,JJ Roy,JJ Roy,2017; 2018; 2021; 2023,Delhi Capitals; Gujarat Lions; Kolkata Knight Riders; Sunrisers Hyderabad,cricsheet_registry
+6821ac10,JJ van der Wath,JJ van der Wath,2011,Royal Challengers Bengaluru,cricsheet_registry
+bdadf7da,JL Denly,JL Denly,2019,Kolkata Knight Riders,cricsheet_registry
+f752db61,JL Pattinson,JL Pattinson,2020/21,Mumbai Indians,cricsheet_registry
+abb83e27,JM Bairstow,JM Bairstow,2019; 2020/21; 2021; 2022; 2024; 2025,Mumbai Indians; Punjab Kings; Sunrisers Hyderabad,cricsheet_registry
+ff154ecd,JM Cox,JM Cox,2026,Royal Challengers Bengaluru,cricsheet_registry
+6581d753,JM Kemp,JM Kemp,2009/10,Chennai Super Kings,cricsheet_registry
+800d2d97,JM Sharma,JM Sharma,2022; 2023; 2024; 2025; 2026,Punjab Kings; Royal Challengers Bengaluru,cricsheet_registry
+0f721006,JO Holder,JO Holder,2013; 2014; 2016; 2020/21; 2021; 2022; 2023; 2026,Chennai Super Kings; Gujarat Titans; Kolkata Knight Riders; Lucknow Super Giants; Rajasthan Royals; Sunrisers Hyderabad,cricsheet_registry
+4933f499,JP Behrendorff,JP Behrendorff,2019; 2023,Mumbai Indians,cricsheet_registry
+2e8994e7,JP Duminy,JP Duminy,2009; 2009/10; 2011; 2012; 2014; 2015; 2016; 2018,Deccan Chargers; Delhi Capitals; Mumbai Indians,cricsheet_registry
+808f425a,JP Faulkner,JP Faulkner,2012; 2013; 2014; 2015; 2016; 2017,Gujarat Lions; Punjab Kings; Rajasthan Royals,cricsheet_registry
+989889ff,JP Inglis,JP Inglis,2025; 2026,Lucknow Super Giants; Punjab Kings,cricsheet_registry
+99ed60f8,JPR Scantlebury-Searles,JPR Scantlebury-Searles,2018,Kolkata Knight Riders,cricsheet_registry
+03806cf8,JR Hazlewood,JR Hazlewood,2020/21; 2021; 2022; 2023; 2025; 2026,Chennai Super Kings; Royal Challengers Bengaluru,cricsheet_registry
+2498e163,JR Hopes,JR Hopes,2007/08; 2011,Delhi Capitals; Punjab Kings,cricsheet_registry
+39086549,JR Philippe,JR Philippe,2020/21,Royal Challengers Bengaluru,cricsheet_registry
+012829ff,JW Hastings,JW Hastings,2014; 2016,Chennai Super Kings; Kolkata Knight Riders,cricsheet_registry
+249abedf,Jalaj S Saxena,Jalaj S Saxena,2021,Punjab Kings,cricsheet_registry
+d7b3a420,Jaskaran Singh,Jaskaran Singh,2009; 2009/10,Deccan Chargers,cricsheet_registry
+9f961c14,Joginder Sharma,Joginder Sharma,2007/08; 2009; 2009/10; 2011,Chennai Super Kings,cricsheet_registry
+a1f1829d,K Goel,K Goel,2007/08; 2009; 2009/10,Punjab Kings,cricsheet_registry
+90de905a,K Gowtham,K Gowtham,2018; 2019; 2020/21; 2021; 2022; 2023; 2024,Chennai Super Kings; Lucknow Super Giants; Punjab Kings; Rajasthan Royals,cricsheet_registry
+f6d8a7ab,K Kartikeya,K Kartikeya,2022; 2023; 2025,Mumbai Indians; Rajasthan Royals,cricsheet_registry
+fa2f1dde,K Khejroliya,K Khejroliya,2018; 2019; 2023; 2025; 2026,Gujarat Titans; Kolkata Knight Riders; Royal Challengers Bengaluru,cricsheet_registry
+e62dd25d,K Rabada,K Rabada,2017; 2019; 2020/21; 2021; 2022; 2023; 2024; 2025; 2026,Delhi Capitals; Gujarat Titans; Punjab Kings,cricsheet_registry
+531f0278,K Santokie,K Santokie,2014,Mumbai Indians,cricsheet_registry
+27e71d47,K Upadhyay,K Upadhyay,2012; 2013,Pune Warriors India,cricsheet_registry
+030f3089,K Yadav,K Yadav,2021; 2023,Rajasthan Royals,cricsheet_registry
+68c56d09,KA Jamieson,KA Jamieson,2021; 2025; 2026,Delhi Capitals; Punjab Kings; Royal Challengers Bengaluru,cricsheet_registry
+0b60eb09,KA Maharaj,KA Maharaj,2024,Rajasthan Royals,cricsheet_registry
+a757b0d8,KA Pollard,KA Pollard,2009/10; 2011; 2012; 2013; 2014; 2015; 2016; 2017; 2018; 2019; 2020/21; 2021; 2022,Mumbai Indians,cricsheet_registry
+78eb4223,KAJ Roach,KAJ Roach,2009/10,Deccan Chargers,cricsheet_registry
+7daedf2f,KB Arun Karthik,KB Arun Karthik,2009/10; 2011; 2012; 2013,Chennai Super Kings; Royal Challengers Bengaluru,cricsheet_registry
+edb3d4f8,KC Cariappa,KC Cariappa,2015; 2016; 2017; 2019,Kolkata Knight Riders; Punjab Kings,cricsheet_registry
+6b71e6cf,KC Sangakkara,KC Sangakkara,2007/08; 2009; 2009/10; 2011; 2012; 2013,Deccan Chargers; Punjab Kings; Sunrisers Hyderabad,cricsheet_registry
+c03f1114,KD Karthik,KD Karthik,2007/08; 2009; 2009/10; 2011; 2012; 2013; 2014; 2015; 2016; 2017; 2018; 2019; 2020/21; 2021; 2022; 2023; 2024,Delhi Capitals; Gujarat Lions; Kolkata Knight Riders; Mumbai Indians; Punjab Kings; Royal Challengers Bengaluru,cricsheet_registry
+62e07f92,KH Devdhar,KH Devdhar,2011,Deccan Chargers,cricsheet_registry
+5b8c830e,KH Pandya,KH Pandya,2016; 2017; 2018; 2019; 2020/21; 2021; 2022; 2023; 2024; 2025; 2026,Lucknow Super Giants; Mumbai Indians; Royal Challengers Bengaluru,cricsheet_registry
+a9da7784,KJ Abbott,KJ Abbott,2016,Punjab Kings,cricsheet_registry
+a2f46292,KK Ahmed,KK Ahmed,2018; 2019; 2020/21; 2021; 2022; 2023; 2024; 2025; 2026,Chennai Super Kings; Delhi Capitals; Sunrisers Hyderabad,cricsheet_registry
+557153ca,KK Cooper,KK Cooper,2012; 2013; 2014,Rajasthan Royals,cricsheet_registry
+944533a5,KK Nair,KK Nair,2013; 2014; 2015; 2016; 2017; 2018; 2019; 2020/21; 2021; 2022; 2025; 2026,Delhi Capitals; Kolkata Knight Riders; Punjab Kings; Rajasthan Royals; Royal Challengers Bengaluru,cricsheet_registry
+b4f5c2d9,KL Nagarkoti,KL Nagarkoti,2020/21; 2021; 2022,Delhi Capitals; Kolkata Knight Riders,cricsheet_registry
+b17e2f24,KL Rahul,KL Rahul,2013; 2014; 2015; 2016; 2018; 2019; 2020/21; 2021; 2022; 2023; 2024; 2025; 2026,Delhi Capitals; Lucknow Super Giants; Punjab Kings; Royal Challengers Bengaluru; Sunrisers Hyderabad,cricsheet_registry
+798cc28e,KM Asif,KM Asif,2018; 2021; 2023,Chennai Super Kings; Rajasthan Royals,cricsheet_registry
+99d63244,KM Jadhav,KM Jadhav,2009/10; 2011; 2013; 2014; 2015; 2016; 2017; 2018; 2019; 2020/21; 2021; 2023,Chennai Super Kings; Delhi Capitals; Kochi Tuskers Kerala; Royal Challengers Bengaluru; Sunrisers Hyderabad,cricsheet_registry
+75224f22,KMA Paul,KMA Paul,2019; 2020/21,Delhi Capitals,cricsheet_registry
+469ea22b,KMDN Kulasekara,KMDN Kulasekara,2011; 2012,Chennai Super Kings,cricsheet_registry
+d92e42f5,KP Appanna,KP Appanna,2009; 2009/10; 2012,Royal Challengers Bengaluru,cricsheet_registry
+39f01cdb,KP Pietersen,KP Pietersen,2009; 2009/10; 2012; 2014; 2016,Delhi Capitals; Rising Pune Supergiants; Royal Challengers Bengaluru,cricsheet_registry
+73c18486,KR Mayers,KR Mayers,2023,Lucknow Super Giants,cricsheet_registry
+2e78f685,KR Sen,KR Sen,2022; 2023; 2024,Rajasthan Royals,cricsheet_registry
+44a89551,KS Bharat,KS Bharat,2021; 2022; 2023,Delhi Capitals; Gujarat Titans; Royal Challengers Bengaluru,cricsheet_registry
+e3851766,KS Rathore,KS Rathore,2025,Rajasthan Royals,cricsheet_registry
+39ed0d2f,KS Sharma,KS Sharma,2022; 2023,Lucknow Super Giants,cricsheet_registry
+d027ba9f,KS Williamson,KS Williamson,2015; 2016; 2017; 2018; 2019; 2020/21; 2021; 2022; 2023; 2024,Gujarat Titans; Sunrisers Hyderabad,cricsheet_registry
+107c26fb,KT Maphaka,KT Maphaka,2024; 2025,Mumbai Indians; Rajasthan Royals,cricsheet_registry
+119678fd,KV Sharma,KV Sharma,2009; 2013; 2014; 2015; 2016; 2017; 2018; 2019; 2020/21; 2023; 2024; 2025,Chennai Super Kings; Mumbai Indians; Royal Challengers Bengaluru; Sunrisers Hyderabad,cricsheet_registry
+dfc4d8b5,KW Richardson,KW Richardson,2013; 2014; 2016; 2021,Pune Warriors India; Rajasthan Royals; Royal Challengers Bengaluru,cricsheet_registry
+ff077124,Kamran Akmal,Kamran Akmal,2007/08,Rajasthan Royals,cricsheet_registry
+6ef60d3a,Kamran Khan,Kamran Khan,2009; 2009/10; 2011,Pune Warriors India; Rajasthan Royals,cricsheet_registry
+1647bd37,Karanveer Singh,Karanveer Singh,2014; 2015,Punjab Kings,cricsheet_registry
+62175638,Karim Janat,Karim Janat,2025,Gujarat Titans,cricsheet_registry
+7b679de5,Kartik Sharma,Kartik Sharma,2026,Chennai Super Kings,cricsheet_registry
+5d2eea49,Kartik Tyagi,Kartik Tyagi,2020/21; 2021; 2022; 2023; 2024; 2026,Gujarat Titans; Kolkata Knight Riders; Rajasthan Royals; Sunrisers Hyderabad,cricsheet_registry
+e48a4814,Krish Bhagat,Krish Bhagat,2026,Mumbai Indians,cricsheet_registry
+8d2c70ad,Kuldeep Yadav,Kuldeep Yadav,2016; 2017; 2018; 2019; 2020/21; 2022; 2023; 2024; 2025; 2026,Delhi Capitals; Kolkata Knight Riders,cricsheet_registry
+57ca01b3,Kumar Kushagra,Kumar Kushagra,2024; 2026,Delhi Capitals; Gujarat Titans,cricsheet_registry
+8b9704ae,L Ablish,L Ablish,2009/10; 2011,Punjab Kings,cricsheet_registry
+b2b50355,L Balaji,L Balaji,2007/08; 2009; 2009/10; 2011; 2012; 2013; 2014,Chennai Super Kings; Kolkata Knight Riders; Punjab Kings,cricsheet_registry
+f834dcfc,L Ngidi,L Ngidi,2018; 2020/21; 2021; 2025; 2026,Chennai Super Kings; Delhi Capitals; Royal Challengers Bengaluru,cricsheet_registry
+0fa5042b,L Ronchi,L Ronchi,2007/08; 2009,Mumbai Indians,cricsheet_registry
+65b6943c,L Wood,L Wood,2024,Mumbai Indians,cricsheet_registry
+d872f52a,LA Carseldine,LA Carseldine,2009,Rajasthan Royals,cricsheet_registry
+b63ab531,LA Pomersbach,LA Pomersbach,2007/08; 2009; 2011; 2012; 2013,Punjab Kings; Royal Challengers Bengaluru,cricsheet_registry
+a1d95bd8,LB Williams,LB Williams,2024,Delhi Capitals,cricsheet_registry
+9a963804,LE Plunkett,LE Plunkett,2018,Delhi Capitals,cricsheet_registry
+60aa2db3,LG Pretorius,LG Pretorius,2026,Rajasthan Royals,cricsheet_registry
+2f9d0389,LH Ferguson,LH Ferguson,2017; 2019; 2020/21; 2021; 2022; 2023; 2024; 2025; 2026,Gujarat Titans; Kolkata Knight Riders; Punjab Kings; Rising Pune Supergiants; Royal Challengers Bengaluru,cricsheet_registry
+d3611425,LI Meriwala,LI Meriwala,2021,Delhi Capitals,cricsheet_registry
+cca50cd6,LJ Wright,LJ Wright,2012; 2013,Pune Warriors India,cricsheet_registry
+89f64c19,LMP Simmons,LMP Simmons,2014; 2015; 2016; 2017,Mumbai Indians,cricsheet_registry
+1be70c88,LPC Silva,LPC Silva,2007/08,Deccan Chargers,cricsheet_registry
+b1451597,LR Shukla,LR Shukla,2007/08; 2009; 2009/10; 2011; 2012; 2013; 2014,Delhi Capitals; Kolkata Knight Riders,cricsheet_registry
+b61a3e1a,LRPL Taylor,LRPL Taylor,2007/08; 2009; 2009/10; 2011; 2012; 2013; 2014,Delhi Capitals; Pune Warriors India; Rajasthan Royals; Royal Challengers Bengaluru,cricsheet_registry
+50c6bc2b,LS Livingstone,LS Livingstone,2019; 2021; 2022; 2023; 2024; 2025; 2026,Punjab Kings; Rajasthan Royals; Royal Challengers Bengaluru; Sunrisers Hyderabad,cricsheet_registry
+ad427b5c,Lalit Yadav,Lalit Yadav,2020/21; 2021; 2022; 2023; 2024,Delhi Capitals,cricsheet_registry
+0404d43c,Liton Das,Liton Das,2023,Kolkata Knight Riders,cricsheet_registry
+e2db2409,M Ashwin,M Ashwin,2016; 2018; 2019; 2020/21; 2021; 2022; 2023,Mumbai Indians; Punjab Kings; Rajasthan Royals; Rising Pune Supergiants; Royal Challengers Bengaluru,cricsheet_registry
+81c36ee9,M Jansen,M Jansen,2021; 2022; 2023; 2024; 2025; 2026,Mumbai Indians; Punjab Kings; Sunrisers Hyderabad,cricsheet_registry
+d84378a4,M Kaif,M Kaif,2007/08; 2009/10; 2011; 2012,Punjab Kings; Rajasthan Royals; Royal Challengers Bengaluru,cricsheet_registry
+abfeb126,M Kartik,M Kartik,2007/08; 2009; 2009/10; 2011; 2012; 2013; 2014,Kolkata Knight Riders; Pune Warriors India; Punjab Kings; Royal Challengers Bengaluru,cricsheet_registry
+b970a03f,M Klinger,M Klinger,2011,Kochi Tuskers Kerala,cricsheet_registry
+c42aaf71,M Manhas,M Manhas,2007/08; 2009; 2009/10; 2011; 2012; 2013; 2014,Chennai Super Kings; Delhi Capitals; Pune Warriors India,cricsheet_registry
+a9fd84fb,M Markande,M Markande,2018; 2019; 2021; 2022; 2023; 2024; 2026,Mumbai Indians; Rajasthan Royals; Sunrisers Hyderabad,cricsheet_registry
+5bb5a915,M Morkel,M Morkel,2009; 2009/10; 2011; 2012; 2013; 2014; 2015; 2016,Delhi Capitals; Kolkata Knight Riders; Rajasthan Royals,cricsheet_registry
+4ba44e19,M Muralitharan,M Muralitharan,2007/08; 2009; 2009/10; 2011; 2012; 2013; 2014,Chennai Super Kings; Kochi Tuskers Kerala; Royal Challengers Bengaluru,cricsheet_registry
+20a941bb,M Ntini,M Ntini,2007/08,Chennai Super Kings,cricsheet_registry
+64839cb3,M Pathirana,M Pathirana,2022; 2023; 2024; 2025; 2026,Chennai Super Kings; Kolkata Knight Riders,cricsheet_registry
+85e0cf10,M Prasidh Krishna,M Prasidh Krishna,2018; 2019; 2020/21; 2021; 2022; 2025; 2026,Gujarat Titans; Kolkata Knight Riders; Rajasthan Royals,cricsheet_registry
+de8d3876,M Rawat,M Rawat,2007/08; 2009; 2013,Pune Warriors India; Rajasthan Royals,cricsheet_registry
+7dcb9bc9,M Shahrukh Khan,M Shahrukh Khan,2021; 2022; 2023; 2024; 2025; 2026,Gujarat Titans; Punjab Kings,cricsheet_registry
+cf0ccafa,M Siddharth,M Siddharth,2024; 2025; 2026,Lucknow Super Giants,cricsheet_registry
+f24c6701,M Theekshana,M Theekshana,2022; 2023; 2024; 2025,Chennai Super Kings; Rajasthan Royals,cricsheet_registry
+fb5f69e4,M Tiwari,M Tiwari,2025; 2026,Delhi Capitals,cricsheet_registry
+4b57e452,M Vijay,M Vijay,2009; 2009/10; 2011; 2012; 2013; 2014; 2015; 2016; 2018; 2019; 2020/21,Chennai Super Kings; Delhi Capitals; Punjab Kings,cricsheet_registry
+c03e2850,M Vohra,M Vohra,2013; 2014; 2015; 2016; 2017; 2018; 2021; 2022,Lucknow Super Giants; Punjab Kings; Rajasthan Royals; Royal Challengers Bengaluru,cricsheet_registry
+d4eef961,M de Lange,M de Lange,2012; 2014; 2015,Kolkata Knight Riders; Mumbai Indians,cricsheet_registry
+00ea847a,MA Agarwal,MA Agarwal,2011; 2012; 2013; 2014; 2015; 2016; 2017; 2018; 2019; 2020/21; 2021; 2022; 2023; 2024; 2025,Delhi Capitals; Punjab Kings; Rising Pune Supergiants; Royal Challengers Bengaluru; Sunrisers Hyderabad,cricsheet_registry
+0d232ffd,MA Khote,MA Khote,2007/08,Mumbai Indians,cricsheet_registry
+3fb19989,MA Starc,MA Starc,2014; 2015; 2024; 2025; 2026,Delhi Capitals; Kolkata Knight Riders; Royal Challengers Bengaluru,cricsheet_registry
+8d92a2c3,MA Wood,MA Wood,2018; 2023,Chennai Super Kings; Lucknow Super Giants,cricsheet_registry
+86ae8ef2,MB Parmar,MB Parmar,2009/10,Kolkata Knight Riders,cricsheet_registry
+32198ae0,MC Henriques,MC Henriques,2009; 2009/10; 2013; 2014; 2015; 2016; 2017; 2019; 2021,Delhi Capitals; Kolkata Knight Riders; Punjab Kings; Royal Challengers Bengaluru; Sunrisers Hyderabad,cricsheet_registry
+605b7efa,MC Juneja,MC Juneja,2013,Delhi Capitals,cricsheet_registry
+1c84109e,MD Choudhary,MD Choudhary,2026,Lucknow Super Giants,cricsheet_registry
+6afb26d6,MD Mishra,MD Mishra,2009/10; 2011; 2012,Deccan Chargers; Pune Warriors India,cricsheet_registry
+3ff033bb,MD Shanaka,MD Shanaka,2023; 2026,Gujarat Titans; Rajasthan Royals,cricsheet_registry
+f21043a5,MDKJ Perera,MDKJ Perera,2013,Rajasthan Royals,cricsheet_registry
+48fd7349,MEK Hussey,MEK Hussey,2007/08; 2009/10; 2011; 2012; 2013; 2014; 2015,Chennai Super Kings; Mumbai Indians,cricsheet_registry
+ab89348d,MF Maharoof,MF Maharoof,2007/08; 2009; 2009/10,Delhi Capitals,cricsheet_registry
+e38bce7a,MG Bracewell,MG Bracewell,2023,Royal Challengers Bengaluru,cricsheet_registry
+f5180fe6,MG Johnson,MG Johnson,2013; 2014; 2015; 2016; 2017; 2018,Kolkata Knight Riders; Mumbai Indians; Punjab Kings,cricsheet_registry
+0164b064,MG Neser,MG Neser,2013,Punjab Kings,cricsheet_registry
+f842c2cf,MJ Clarke,MJ Clarke,2012,Pune Warriors India,cricsheet_registry
+2be41edb,MJ Guptill,MJ Guptill,2016; 2017; 2019,Mumbai Indians; Punjab Kings; Sunrisers Hyderabad,cricsheet_registry
+e84ac20c,MJ Henry,MJ Henry,2017; 2024; 2026,Chennai Super Kings; Lucknow Super Giants; Punjab Kings,cricsheet_registry
+11df3dc8,MJ Lumb,MJ Lumb,2009/10; 2011,Deccan Chargers; Rajasthan Royals,cricsheet_registry
+51a3c5ef,MJ McClenaghan,MJ McClenaghan,2015; 2016; 2017; 2018; 2019,Mumbai Indians,cricsheet_registry
+f2c936d7,MJ Owen,MJ Owen,2025,Punjab Kings,cricsheet_registry
+e4a0deae,MJ Santner,MJ Santner,2019; 2020/21; 2021; 2022; 2023; 2024; 2025; 2026,Chennai Super Kings; Mumbai Indians,cricsheet_registry
+025c4400,MJ Suthar,MJ Suthar,2024; 2026,Gujarat Titans,cricsheet_registry
+da934ee8,MK Lomror,MK Lomror,2018; 2019; 2020/21; 2021; 2022; 2023; 2024; 2025,Gujarat Titans; Rajasthan Royals; Royal Challengers Bengaluru,cricsheet_registry
+93b4fc78,MK Pandey,MK Pandey,2007/08; 2009; 2009/10; 2011; 2012; 2013; 2014; 2015; 2016; 2017; 2018; 2019; 2020/21; 2021; 2022; 2023; 2024; 2025; 2026,Delhi Capitals; Kolkata Knight Riders; Lucknow Super Giants; Mumbai Indians; Pune Warriors India; Royal Challengers Bengaluru; Sunrisers Hyderabad,cricsheet_registry
+26e5cabf,MK Tiwary,MK Tiwary,2007/08; 2009; 2009/10; 2011; 2012; 2013; 2014; 2015; 2017; 2018,Delhi Capitals; Kolkata Knight Riders; Punjab Kings; Rising Pune Supergiants,cricsheet_registry
+d8699ab7,ML Hayden,ML Hayden,2007/08; 2009; 2009/10,Chennai Super Kings,cricsheet_registry
+bb351c23,MM Ali,MM Ali,2018; 2019; 2020/21; 2021; 2022; 2023; 2024; 2025,Chennai Super Kings; Kolkata Knight Riders; Royal Challengers Bengaluru,cricsheet_registry
+f0f628c7,MM Patel,MM Patel,2007/08; 2009; 2009/10; 2011; 2012; 2013; 2017,Gujarat Lions; Mumbai Indians; Rajasthan Royals,cricsheet_registry
+759ac88f,MM Sharma,MM Sharma,2013; 2014; 2015; 2016; 2017; 2018; 2019; 2020/21; 2023; 2024; 2025,Chennai Super Kings; Delhi Capitals; Gujarat Titans; Punjab Kings,cricsheet_registry
+f846de6a,MN Samuels,MN Samuels,2012; 2013; 2017,Delhi Capitals; Pune Warriors India,cricsheet_registry
+710dd98c,MN van Wyk,MN van Wyk,2009,Kolkata Knight Riders,cricsheet_registry
+35f173a0,MP Breetzke,MP Breetzke,2025,Lucknow Super Giants,cricsheet_registry
+d9273ee7,MP Stoinis,MP Stoinis,2016; 2017; 2018; 2019; 2020/21; 2021; 2022; 2023; 2024; 2025; 2026,Delhi Capitals; Lucknow Super Giants; Punjab Kings; Royal Challengers Bengaluru,cricsheet_registry
+b1ad996b,MP Yadav,MP Yadav,2024; 2025; 2026,Lucknow Super Giants,cricsheet_registry
+3d8feaf8,MR Marsh,MR Marsh,2009/10; 2011; 2013; 2016; 2020/21; 2022; 2023; 2024; 2025; 2026,Deccan Chargers; Delhi Capitals; Lucknow Super Giants; Pune Warriors India; Rising Pune Supergiants; Sunrisers Hyderabad,cricsheet_registry
+e96801ea,MS Bhandage,MS Bhandage,2025,Royal Challengers Bengaluru,cricsheet_registry
+5afd4539,MS Bisla,MS Bisla,2009/10; 2011; 2012; 2013; 2014; 2015,Kolkata Knight Riders; Punjab Kings; Royal Challengers Bengaluru,cricsheet_registry
+4a8a2e3b,MS Dhoni,MS Dhoni,2007/08; 2009; 2009/10; 2011; 2012; 2013; 2014; 2015; 2016; 2017; 2018; 2019; 2020/21; 2021; 2022; 2023; 2024; 2025,Chennai Super Kings; Rising Pune Supergiants,cricsheet_registry
+ae78bc32,MS Gony,MS Gony,2007/08; 2009; 2009/10; 2011; 2012; 2013; 2017,Chennai Super Kings; Deccan Chargers; Gujarat Lions; Punjab Kings,cricsheet_registry
+afa7e784,MS Wade,MS Wade,2011; 2022; 2024,Delhi Capitals; Gujarat Titans,cricsheet_registry
+f3cb53a1,MV Boucher,MV Boucher,2007/08; 2009; 2009/10; 2011,Kolkata Knight Riders; Royal Challengers Bengaluru,cricsheet_registry
+a90e53ec,MW Short,MW Short,2023; 2026,Chennai Super Kings; Punjab Kings,cricsheet_registry
+c3a96caf,Mandeep Singh,Mandeep Singh,2009/10; 2011; 2012; 2013; 2014; 2015; 2016; 2017; 2018; 2019; 2020/21; 2021; 2022; 2023,Delhi Capitals; Kolkata Knight Riders; Punjab Kings; Royal Challengers Bengaluru,cricsheet_registry
+e186f49c,Mashrafe Mortaza,Mashrafe Mortaza,2009,Kolkata Knight Riders,cricsheet_registry
+a457cfb5,Mayank Dagar,Mayank Dagar,2023; 2024,Royal Challengers Bengaluru; Sunrisers Hyderabad,cricsheet_registry
+2b801189,Mayank Rawat,Mayank Rawat,2026,Mumbai Indians,cricsheet_registry
+b4296080,Milind Kumar,Milind Kumar,2019,Royal Challengers Bengaluru,cricsheet_registry
+7eae4418,Misbah-ul-Haq,Misbah-ul-Haq,2007/08,Royal Challengers Bengaluru,cricsheet_registry
+2bb09eb2,Mohammad Ashraful,Mohammad Ashraful,2009,Mumbai Indians,cricsheet_registry
+e03b66ec,Mohammad Asif,Mohammad Asif,2007/08,Delhi Capitals,cricsheet_registry
+9ab63e7b,Mohammad Hafeez,Mohammad Hafeez,2007/08,Kolkata Knight Riders,cricsheet_registry
+62af8546,Mohammad Nabi,Mohammad Nabi,2017; 2018; 2019; 2020/21; 2021; 2024,Mumbai Indians; Sunrisers Hyderabad,cricsheet_registry
+8cf9814c,Mohammed Shami,Mohammed Shami,2013; 2014; 2016; 2017; 2018; 2019; 2020/21; 2021; 2022; 2023; 2025; 2026,Delhi Capitals; Gujarat Titans; Kolkata Knight Riders; Lucknow Super Giants; Punjab Kings; Sunrisers Hyderabad,cricsheet_registry
+2f49c897,Mohammed Siraj,Mohammed Siraj,2017; 2018; 2019; 2020/21; 2021; 2022; 2023; 2024; 2025; 2026,Gujarat Titans; Royal Challengers Bengaluru; Sunrisers Hyderabad,cricsheet_registry
+9a5f2863,Mohit Rathee,Mohit Rathee,2023,Punjab Kings,cricsheet_registry
+c33d8116,Mohsin Khan,Mohsin Khan,2022; 2023; 2024; 2026,Lucknow Super Giants,cricsheet_registry
+fb24e76c,Monu Kumar,Monu Kumar,2020/21,Chennai Super Kings,cricsheet_registry
+7d92277a,Mujeeb Ur Rahman,Mujeeb Ur Rahman,2018; 2019; 2020/21; 2021; 2025,Mumbai Indians; Punjab Kings; Sunrisers Hyderabad,cricsheet_registry
+765a4731,Mukesh Choudhary,Mukesh Choudhary,2022; 2024; 2025; 2026,Chennai Super Kings,cricsheet_registry
+2cffab74,Mukesh Kumar,Mukesh Kumar,2023; 2024; 2025; 2026,Delhi Capitals,cricsheet_registry
+d621b427,Musheer Khan,Musheer Khan,2025,Punjab Kings,cricsheet_registry
+0a8fce53,Mustafizur Rahman,Mustafizur Rahman,2016; 2017; 2018; 2021; 2022; 2023; 2024; 2025,Chennai Super Kings; Delhi Capitals; Mumbai Indians; Rajasthan Royals; Sunrisers Hyderabad,cricsheet_registry
+465aa633,N Burger,N Burger,2024; 2026,Rajasthan Royals,cricsheet_registry
+bd54eef5,N Jagadeesan,N Jagadeesan,2020/21; 2022; 2023,Chennai Super Kings; Kolkata Knight Riders,cricsheet_registry
+3241e3fd,N Pooran,N Pooran,2019; 2020/21; 2021; 2022; 2023; 2024; 2025; 2026,Lucknow Super Giants; Punjab Kings; Sunrisers Hyderabad,cricsheet_registry
+fb2d1dda,N Rana,N Rana,2016; 2017; 2018; 2019; 2020/21; 2021; 2022; 2023; 2024; 2025; 2026,Delhi Capitals; Kolkata Knight Riders; Mumbai Indians; Rajasthan Royals,cricsheet_registry
+addbde6c,N Saini,N Saini,2012,Punjab Kings,cricsheet_registry
+3cea23da,N Sindhu,N Sindhu,2026,Gujarat Titans,cricsheet_registry
+ee1b6c27,N Thushara,N Thushara,2024; 2025,Mumbai Indians; Royal Challengers Bengaluru,cricsheet_registry
+d1a60072,N Wadhera,N Wadhera,2023; 2024; 2025; 2026,Mumbai Indians; Punjab Kings,cricsheet_registry
+b822e99c,NB Singh,NB Singh,2017,Gujarat Lions,cricsheet_registry
+6ec424a9,ND Doshi,ND Doshi,2009/10; 2011,Rajasthan Royals; Royal Challengers Bengaluru,cricsheet_registry
+44afbf2d,NJ Maddinson,NJ Maddinson,2014; 2015,Royal Challengers Bengaluru,cricsheet_registry
+6042bf26,NJ Rimmington,NJ Rimmington,2011,Punjab Kings,cricsheet_registry
+a2870fb7,NK Patel,NK Patel,2007/08; 2009,Rajasthan Royals,cricsheet_registry
+5673a3fc,NL McCullum,NL McCullum,2011,Pune Warriors India,cricsheet_registry
+0f12f9df,NLTC Perera,NLTC Perera,2009/10; 2011; 2012; 2013; 2015; 2016,Chennai Super Kings; Kochi Tuskers Kerala; Mumbai Indians; Punjab Kings; Rising Pune Supergiants; Sunrisers Hyderabad,cricsheet_registry
+56ab442f,NM Coulter-Nile,NM Coulter-Nile,2013; 2014; 2015; 2016; 2017; 2020/21; 2021; 2022,Delhi Capitals; Kolkata Knight Riders; Mumbai Indians; Rajasthan Royals,cricsheet_registry
+aedc3b7c,NS Naik,NS Naik,2016; 2019; 2020/21,Kolkata Knight Riders; Punjab Kings,cricsheet_registry
+9eb1455b,NT Ellis,NT Ellis,2021; 2022; 2023; 2024; 2025,Chennai Super Kings; Punjab Kings,cricsheet_registry
+890946a0,NV Ojha,NV Ojha,2009; 2009/10; 2011; 2012; 2013; 2014; 2015; 2016; 2017; 2018,Delhi Capitals; Rajasthan Royals; Sunrisers Hyderabad,cricsheet_registry
+fffa744b,Naman Dhir,Naman Dhir,2024; 2025; 2026,Mumbai Indians,cricsheet_registry
+21d4e29b,Navdeep Saini,NA Saini; Navdeep Saini,2019; 2020/21; 2021; 2022; 2023; 2026,Kolkata Knight Riders; Rajasthan Royals; Royal Challengers Bengaluru,cricsheet_registry
+c0c411cb,Naveen-ul-Haq,Naveen-ul-Haq,2023; 2024,Lucknow Super Giants,cricsheet_registry
+aad0c365,Nithish Kumar Reddy,Nithish Kumar Reddy,2023; 2024; 2025; 2026,Sunrisers Hyderabad,cricsheet_registry
+efc04be7,Noor Ahmad,Noor Ahmad,2023; 2024; 2025; 2026,Chennai Super Kings; Gujarat Titans,cricsheet_registry
+c6097d68,O Thomas,O Thomas,2019,Rajasthan Royals,cricsheet_registry
+7bf96684,OA Shah,OA Shah,2009/10; 2011; 2012; 2013,Kochi Tuskers Kerala; Kolkata Knight Riders; Rajasthan Royals,cricsheet_registry
+529eb9e0,OC McCoy,OC McCoy,2022; 2023,Rajasthan Royals,cricsheet_registry
+23cca426,OF Smith,OF Smith,2022,Punjab Kings,cricsheet_registry
+6ad3a659,P Amarnath,P Amarnath,2007/08,Chennai Super Kings,cricsheet_registry
+1a0c3177,P Awana,P Awana,2012; 2013; 2014,Punjab Kings,cricsheet_registry
+8ac93ca2,P Chopra,P Chopra,2018; 2019,Rajasthan Royals,cricsheet_registry
+eaa90ab4,P Dharmani,P Dharmani,2007/08,Punjab Kings,cricsheet_registry
+2728e7e9,P Dogra,P Dogra,2009/10; 2012; 2013,Kolkata Knight Riders; Punjab Kings; Rajasthan Royals,cricsheet_registry
+ed5a5510,P Dubey,P Dubey,2020/21; 2023; 2025; 2026,Delhi Capitals; Punjab Kings,cricsheet_registry
+e938e1bc,P Kumar,P Kumar,2007/08; 2009; 2009/10; 2011; 2012; 2013; 2014; 2015; 2016; 2017,Gujarat Lions; Mumbai Indians; Punjab Kings; Royal Challengers Bengaluru; Sunrisers Hyderabad,cricsheet_registry
+f62772e5,P Negi,P Negi,2012; 2013; 2014; 2015; 2016; 2017; 2018; 2019; 2020/21,Chennai Super Kings; Delhi Capitals; Royal Challengers Bengaluru,cricsheet_registry
+8ee36b18,P Nissanka,P Nissanka,2026,Delhi Capitals,cricsheet_registry
+0c432afb,P Parameswaran,P Parameswaran,2011; 2012,Kochi Tuskers Kerala; Royal Challengers Bengaluru,cricsheet_registry
+ddb00822,P Prasanth,P Prasanth,2011,Kochi Tuskers Kerala,cricsheet_registry
+441c72ae,P Ray Barman,P Ray Barman,2019,Royal Challengers Bengaluru,cricsheet_registry
+9a0146b3,P Sahu,P Sahu,2016,Punjab Kings,cricsheet_registry
+9418198b,P Simran Singh,P Simran Singh,2019; 2020/21; 2021; 2022; 2023; 2024; 2025; 2026,Punjab Kings,cricsheet_registry
+cedc1d9a,P Suyal,P Suyal,2013; 2014; 2015,Mumbai Indians,cricsheet_registry
+b5da6c24,PA Patel,PA Patel,2007/08; 2009; 2009/10; 2011; 2012; 2013; 2014; 2015; 2016; 2017; 2018; 2019,Chennai Super Kings; Deccan Chargers; Kochi Tuskers Kerala; Mumbai Indians; Royal Challengers Bengaluru; Sunrisers Hyderabad,cricsheet_registry
+2461eef2,PA Reddy,PA Reddy,2012; 2013,Deccan Chargers; Sunrisers Hyderabad,cricsheet_registry
+6c882e9a,PBB Rajapaksa,PBB Rajapaksa,2022; 2023,Punjab Kings,cricsheet_registry
+25eeb281,PC Valthaty,PC Valthaty,2009; 2011; 2012; 2013,Punjab Kings; Rajasthan Royals,cricsheet_registry
+a386e91b,PD Collingwood,PD Collingwood,2009/10,Delhi Capitals,cricsheet_registry
+3d284ca3,PD Salt,PD Salt,2023; 2024; 2025; 2026,Delhi Capitals; Kolkata Knight Riders; Royal Challengers Bengaluru,cricsheet_registry
+c695b423,PH Solanki,PH Solanki,2022,Chennai Super Kings,cricsheet_registry
+08548b13,PHKD Mendis,PHKD Mendis,2025,Sunrisers Hyderabad,cricsheet_registry
+ded9240e,PJ Cummins,PJ Cummins,2014; 2015; 2017; 2020/21; 2021; 2022; 2024; 2025; 2026,Delhi Capitals; Kolkata Knight Riders; Sunrisers Hyderabad,cricsheet_registry
+9fc0ef64,PJ Sangwan,PJ Sangwan,2007/08; 2009; 2009/10; 2012; 2013; 2016; 2017; 2018; 2022,Delhi Capitals; Gujarat Lions; Gujarat Titans; Kolkata Knight Riders; Mumbai Indians,cricsheet_registry
+bb965e9a,PK Garg,PK Garg,2020/21; 2021; 2022; 2023,Delhi Capitals; Sunrisers Hyderabad,cricsheet_registry
+4b4d1957,PM Sarvesh Kumar,PM Sarvesh Kumar,2007/08,Deccan Chargers,cricsheet_registry
+663b5e34,PN Mankad,PN Mankad,2022; 2023,Lucknow Super Giants; Punjab Kings,cricsheet_registry
+98ae73b1,PP Chawla,PP Chawla,2007/08; 2009; 2009/10; 2011; 2012; 2013; 2014; 2015; 2016; 2017; 2018; 2019; 2020/21; 2021; 2023; 2024,Chennai Super Kings; Kolkata Knight Riders; Mumbai Indians; Punjab Kings,cricsheet_registry
+ece7b6b3,PP Hinge,PP Hinge,2026,Sunrisers Hyderabad,cricsheet_registry
+6c6591ab,PP Ojha,PP Ojha,2007/08; 2009; 2009/10; 2011; 2012; 2013; 2014; 2015,Deccan Chargers; Mumbai Indians,cricsheet_registry
+8b3e9c7c,PP Shaw,PP Shaw,2018; 2019; 2020/21; 2021; 2022; 2023; 2024,Delhi Capitals,cricsheet_registry
+0aadc906,PR Shah,PR Shah,2007/08; 2009; 2011,Mumbai Indians; Rajasthan Royals,cricsheet_registry
+e148e6bd,PR Veer,PR Veer,2026,Chennai Super Kings,cricsheet_registry
+ada15e88,PSP Handscomb,PSP Handscomb,2016,Rising Pune Supergiants,cricsheet_registry
+6aed7e79,PV Tambe,PV Tambe,2013; 2014; 2015; 2016,Gujarat Lions; Rajasthan Royals,cricsheet_registry
+327b58d3,PVD Chameera,PVD Chameera,2022; 2024; 2025; 2026,Delhi Capitals; Kolkata Knight Riders; Lucknow Super Giants,cricsheet_registry
+c27b5a0e,PVSN Raju,PVSN Raju,2025,Mumbai Indians,cricsheet_registry
+c96f6ac5,PWA Mulder,PWA Mulder,2025,Sunrisers Hyderabad,cricsheet_registry
+a97c8ec2,PWH de Silva,PWH de Silva,2021; 2022; 2023; 2025,Rajasthan Royals; Royal Challengers Bengaluru,cricsheet_registry
+e32d22f6,Pankaj Singh,Pankaj Singh,2007/08; 2009; 2009/10; 2011; 2012,Rajasthan Royals; Royal Challengers Bengaluru,cricsheet_registry
+9170ff49,Parvez Rasool,Parvez Rasool,2013; 2014; 2015; 2016,Pune Warriors India; Royal Challengers Bengaluru; Sunrisers Hyderabad,cricsheet_registry
+80b2fb19,Prince Yadav,Prince Yadav,2025; 2026,Lucknow Super Giants,cricsheet_registry
+b5797845,Priyansh Arya,Priyansh Arya,2025; 2026,Punjab Kings,cricsheet_registry
+372455c4,Q de Kock,Q de Kock,2013; 2014; 2015; 2016; 2018; 2019; 2020/21; 2021; 2022; 2023; 2024; 2025; 2026,Delhi Capitals; Kolkata Knight Riders; Lucknow Super Giants; Mumbai Indians; Royal Challengers Bengaluru; Sunrisers Hyderabad,cricsheet_registry
+495d42a5,R Ashwin,R Ashwin,2009; 2009/10; 2011; 2012; 2013; 2014; 2015; 2016; 2018; 2019; 2020/21; 2021; 2022; 2023; 2024; 2025,Chennai Super Kings; Delhi Capitals; Punjab Kings; Rajasthan Royals; Rising Pune Supergiants,cricsheet_registry
+33a364a6,R Bhatia,R Bhatia,2007/08; 2009; 2009/10; 2011; 2012; 2013; 2014; 2015; 2016; 2017,Delhi Capitals; Kolkata Knight Riders; Rajasthan Royals; Rising Pune Supergiants,cricsheet_registry
+4d5a1617,R Bishnoi,R Bishnoi,2009,Royal Challengers Bengaluru,cricsheet_registry
+26a85969,R Dhawan,R Dhawan,2013; 2014; 2015; 2016; 2017; 2022; 2023; 2024,Kolkata Knight Riders; Mumbai Indians; Punjab Kings,cricsheet_registry
+0184dc35,R Dravid,R Dravid,2007/08; 2009; 2009/10; 2011; 2012; 2013,Rajasthan Royals; Royal Challengers Bengaluru,cricsheet_registry
+266849c1,R Goyal,R Goyal,2023,Mumbai Indians,cricsheet_registry
+c654af19,R McLaren,R McLaren,2009/10; 2011; 2013,Kolkata Knight Riders; Mumbai Indians; Punjab Kings,cricsheet_registry
+bafd0398,R Minz,R Minz,2025; 2026,Mumbai Indians,cricsheet_registry
+ce4cc4d5,R Ninan,R Ninan,2011,Royal Challengers Bengaluru,cricsheet_registry
+04a418e8,R Parag,R Parag,2019; 2020/21; 2021; 2022; 2023; 2024; 2025; 2026,Rajasthan Royals,cricsheet_registry
+650d5e49,R Powell,R Powell,2017; 2022; 2023; 2024; 2025; 2026,Delhi Capitals; Kolkata Knight Riders; Rajasthan Royals,cricsheet_registry
+d68e7f48,R Rampaul,R Rampaul,2013; 2014,Royal Challengers Bengaluru,cricsheet_registry
+ba5e1069,R Ravindra,R Ravindra,2024; 2025,Chennai Super Kings,cricsheet_registry
+c7a995d3,R Sai Kishore,R Sai Kishore,2022; 2024; 2025; 2026,Gujarat Titans,cricsheet_registry
+33ffc3dd,R Sanjay Yadav,R Sanjay Yadav,2022,Mumbai Indians,cricsheet_registry
+626c5379,R Sathish,R Sathish,2009/10; 2011; 2013; 2016,Kolkata Knight Riders; Mumbai Indians; Punjab Kings,cricsheet_registry
+5d9a1a73,R Sharma,R Sharma,2009/10; 2011; 2012; 2013; 2014,Deccan Chargers; Delhi Capitals; Pune Warriors India,cricsheet_registry
+c5aef772,R Shepherd,R Shepherd,2022; 2023; 2024; 2025; 2026,Lucknow Super Giants; Mumbai Indians; Royal Challengers Bengaluru; Sunrisers Hyderabad,cricsheet_registry
+de4b0555,R Shukla,R Shukla,2012; 2013; 2014,Delhi Capitals; Mumbai Indians; Rajasthan Royals,cricsheet_registry
+c1e53c3f,R Smaran,R Smaran,2026,Sunrisers Hyderabad,cricsheet_registry
+39a2dfa8,R Tewatia,R Tewatia,2014; 2015; 2017; 2018; 2019; 2020/21; 2021; 2022; 2023; 2024; 2025; 2026,Delhi Capitals; Gujarat Titans; Punjab Kings; Rajasthan Royals,cricsheet_registry
+41eb4a4f,R Vinay Kumar,R Vinay Kumar,2007/08; 2009; 2009/10; 2011; 2012; 2013; 2014; 2015; 2016; 2017; 2018,Kochi Tuskers Kerala; Kolkata Knight Riders; Mumbai Indians; Royal Challengers Bengaluru,cricsheet_registry
+ba6b2f91,RA Bawa,RA Bawa,2022; 2025; 2026,Mumbai Indians; Punjab Kings,cricsheet_registry
+fe93fd9d,RA Jadeja,RA Jadeja,2007/08; 2009; 2011; 2012; 2013; 2014; 2015; 2016; 2017; 2018; 2019; 2020/21; 2021; 2022; 2023; 2024; 2025; 2026,Chennai Super Kings; Gujarat Lions; Kochi Tuskers Kerala; Rajasthan Royals,cricsheet_registry
+7c390b03,RA Shaikh,RA Shaikh,2009,Mumbai Indians,cricsheet_registry
+77255a9e,RA Tripathi,RA Tripathi,2017; 2018; 2019; 2020/21; 2021; 2022; 2023; 2024; 2025,Chennai Super Kings; Kolkata Knight Riders; Rajasthan Royals; Rising Pune Supergiants; Sunrisers Hyderabad,cricsheet_registry
+2ed569a0,RD Chahar,RD Chahar,2017; 2018; 2019; 2020/21; 2021; 2022; 2023; 2024; 2025; 2026,Chennai Super Kings; Mumbai Indians; Punjab Kings; Rising Pune Supergiants; Sunrisers Hyderabad,cricsheet_registry
+45a43fe2,RD Gaikwad,RD Gaikwad,2020/21; 2021; 2022; 2023; 2024; 2025; 2026,Chennai Super Kings,cricsheet_registry
+e66732f8,RD Rickelton,RD Rickelton,2025; 2026,Mumbai Indians,cricsheet_registry
+18c78b11,RE Levi,RE Levi,2012,Mumbai Indians,cricsheet_registry
+05c2ca46,RE van der Merwe,RE van der Merwe,2009; 2009/10; 2011; 2012; 2013,Delhi Capitals; Royal Challengers Bengaluru,cricsheet_registry
+b2b23612,RG More,RG More,2015,Chennai Super Kings,cricsheet_registry
+740742ef,RG Sharma,RG Sharma,2007/08; 2009; 2009/10; 2011; 2012; 2013; 2014; 2015; 2016; 2017; 2018; 2019; 2020/21; 2021; 2022; 2023; 2024; 2025; 2026,Deccan Chargers; Mumbai Indians,cricsheet_registry
+402f8494,RJ Gleeson,RJ Gleeson,2024; 2025,Chennai Super Kings; Mumbai Indians,cricsheet_registry
+12eddf28,RJ Harris,RJ Harris,2009; 2009/10; 2011; 2012; 2013,Deccan Chargers; Punjab Kings,cricsheet_registry
+26ff4c29,RJ Peterson,RJ Peterson,2012,Mumbai Indians,cricsheet_registry
+23ac69e6,RJ Quiney,RJ Quiney,2009,Rajasthan Royals,cricsheet_registry
+8db7f47f,RJW Topley,RJW Topley,2023; 2024; 2025,Mumbai Indians; Royal Challengers Bengaluru,cricsheet_registry
+b63e358a,RK Bhui,RK Bhui,2018; 2019; 2024,Delhi Capitals; Sunrisers Hyderabad,cricsheet_registry
+0a509d6b,RK Singh,RK Singh,2018; 2019; 2020/21; 2022; 2023; 2024; 2025; 2026,Kolkata Knight Riders,cricsheet_registry
+c740ea83,RM Patidar,RM Patidar,2021; 2022; 2024; 2025; 2026,Royal Challengers Bengaluru,cricsheet_registry
+4ec07775,RN ten Doeschate,RN ten Doeschate,2011; 2012; 2013; 2014; 2015,Kolkata Knight Riders,cricsheet_registry
+64775749,RP Meredith,RP Meredith,2021; 2022; 2023,Mumbai Indians; Punjab Kings,cricsheet_registry
+c3d1402f,RP Singh,RP Singh,2007/08; 2009; 2009/10; 2011; 2012; 2013; 2016,Deccan Chargers; Kochi Tuskers Kerala; Mumbai Indians; Rising Pune Supergiants; Royal Challengers Bengaluru,cricsheet_registry
+7d3720ba,RR Bhatkal,RR Bhatkal,2012,Royal Challengers Bengaluru,cricsheet_registry
+21ac077a,RR Bose,RR Bose,2009,Punjab Kings,cricsheet_registry
+919a3be2,RR Pant,RR Pant,2016; 2017; 2018; 2019; 2020/21; 2021; 2022; 2024; 2025; 2026,Delhi Capitals; Lucknow Super Giants,cricsheet_registry
+5d096f3d,RR Powar,RR Powar,2007/08; 2009; 2009/10; 2011; 2012,Kochi Tuskers Kerala; Punjab Kings,cricsheet_registry
+5f4e9e8f,RR Raje,RR Raje,2007/08; 2009,Mumbai Indians,cricsheet_registry
+cad00a4d,RR Rossouw,RR Rossouw,2014; 2015; 2023; 2024,Delhi Capitals; Punjab Kings; Royal Challengers Bengaluru,cricsheet_registry
+36d33dd0,RR Sarwan,RR Sarwan,2007/08,Punjab Kings,cricsheet_registry
+7ca5e05d,RS Bopara,RS Bopara,2009; 2009/10; 2015,Punjab Kings; Sunrisers Hyderabad,cricsheet_registry
+9ff100a6,RS Gavaskar,RS Gavaskar,2009/10,Kolkata Knight Riders,cricsheet_registry
+dee07622,RS Ghosh,RS Ghosh,2026,Chennai Super Kings,cricsheet_registry
+c3c92b42,RS Hangargekar,RS Hangargekar,2023,Chennai Super Kings,cricsheet_registry
+a3ecf01f,RS Sodhi,RS Sodhi,2009/10,Punjab Kings,cricsheet_registry
+7d415ea5,RT Ponting,RT Ponting,2007/08; 2013,Kolkata Knight Riders; Mumbai Indians,cricsheet_registry
+b2570b38,RV Gomez,RV Gomez,2011; 2013,Kochi Tuskers Kerala; Pune Warriors India,cricsheet_registry
+60500956,RV Patel,RV Patel,2021; 2022; 2023,Delhi Capitals,cricsheet_registry
+c9d33ef5,RV Pawar,RV Pawar,2007/08,Mumbai Indians,cricsheet_registry
+1c17e270,RV Uthappa,RV Uthappa,2007/08; 2009; 2009/10; 2011; 2012; 2013; 2014; 2015; 2016; 2017; 2018; 2019; 2020/21; 2021; 2022,Chennai Super Kings; Kolkata Knight Riders; Mumbai Indians; Pune Warriors India; Rajasthan Royals; Royal Challengers Bengaluru,cricsheet_registry
+67af6f81,RW Price,RW Price,2011,Mumbai Indians,cricsheet_registry
+5b615e7c,Raghu Sharma,Raghu Sharma,2026,Mumbai Indians,cricsheet_registry
+0bacade8,Rahmanullah Gurbaz,Rahmanullah Gurbaz,2023; 2024; 2025,Kolkata Knight Riders,cricsheet_registry
+be24ead0,Ramandeep Singh,Ramandeep Singh,2022; 2023; 2024; 2025; 2026,Kolkata Knight Riders; Mumbai Indians,cricsheet_registry
+5f547c8b,Rashid Khan,Rashid Khan,2017; 2018; 2019; 2020/21; 2021; 2022; 2023; 2024; 2025; 2026,Gujarat Titans; Sunrisers Hyderabad,cricsheet_registry
+b8527c3d,Rasikh Salam,Rasikh Salam,2019; 2022; 2024; 2025; 2026,Delhi Capitals; Kolkata Knight Riders; Mumbai Indians; Royal Challengers Bengaluru,cricsheet_registry
+df064e1a,Ravi Bishnoi,Ravi Bishnoi,2020/21; 2021; 2022; 2023; 2024; 2025; 2026,Lucknow Super Giants; Punjab Kings; Rajasthan Royals,cricsheet_registry
+548516a6,Ravi Singh,Ravi Singh,2026,Rajasthan Royals,cricsheet_registry
+95a2ea61,S Anirudha,S Anirudha,2007/08; 2009/10; 2011; 2012; 2013; 2014,Chennai Super Kings; Sunrisers Hyderabad,cricsheet_registry
+957532de,S Aravind,S Aravind,2011; 2012; 2015; 2016; 2017,Royal Challengers Bengaluru,cricsheet_registry
+d7423da1,S Arora,S Arora; Salil Arora,2026,Sunrisers Hyderabad,cricsheet_registry
+76388dc8,S Badree,S Badree,2013; 2014; 2017,Chennai Super Kings; Rajasthan Royals; Royal Challengers Bengaluru,cricsheet_registry
+3576e47e,S Badrinath,S Badrinath,2007/08; 2009; 2009/10; 2011; 2012; 2013,Chennai Super Kings,cricsheet_registry
+881a9bdd,S Chanderpaul,S Chanderpaul,2007/08,Royal Challengers Bengaluru,cricsheet_registry
+0a476045,S Dhawan,S Dhawan,2007/08; 2009; 2009/10; 2011; 2012; 2013; 2014; 2015; 2016; 2017; 2018; 2019; 2020/21; 2021; 2022; 2023; 2024,Deccan Chargers; Delhi Capitals; Mumbai Indians; Punjab Kings; Sunrisers Hyderabad,cricsheet_registry
+a4e37e47,S Dube,S Dube,2019; 2020/21; 2021; 2022; 2023; 2024; 2025; 2026,Chennai Super Kings; Rajasthan Royals; Royal Challengers Bengaluru,cricsheet_registry
+7a8bd078,S Gopal,S Gopal,2014; 2015; 2016; 2018; 2019; 2020/21; 2021; 2022; 2024,Mumbai Indians; Rajasthan Royals; Sunrisers Hyderabad,cricsheet_registry
+97290faf,S Joseph,S Joseph,2024,Lucknow Super Giants,cricsheet_registry
+dcf81436,S Kaul,S Kaul,2013; 2014; 2017; 2018; 2019; 2020/21; 2021; 2022,Delhi Capitals; Royal Challengers Bengaluru; Sunrisers Hyderabad,cricsheet_registry
+1da489ff,S Kaushik,S Kaushik,2016; 2017,Gujarat Lions,cricsheet_registry
+fb693839,S Ladda,S Ladda,2009/10; 2011; 2013; 2016,Delhi Capitals; Gujarat Lions; Kolkata Knight Riders,cricsheet_registry
+b410bd3d,S Lamichhane,S Lamichhane,2018; 2019,Delhi Capitals,cricsheet_registry
+ade90de7,S Midhun,S Midhun,2019,Rajasthan Royals,cricsheet_registry
+9d80c5e1,S Nadeem,S Nadeem,2011; 2012; 2013; 2014; 2015; 2016; 2017; 2018; 2019; 2020/21; 2021,Delhi Capitals; Sunrisers Hyderabad,cricsheet_registry
+287686fd,S Narwal,S Narwal,2009/10; 2013,Kolkata Knight Riders; Rajasthan Royals,cricsheet_registry
+90edaaa9,S Rana,S Rana,2011; 2014,Pune Warriors India; Royal Challengers Bengaluru,cricsheet_registry
+f5f18a18,S Randiv,S Randiv,2011,Chennai Super Kings,cricsheet_registry
+cdc6bdba,S Sandeep Warrier,S Sandeep Warrier,2019; 2020/21; 2021; 2024,Gujarat Titans; Kolkata Knight Riders,cricsheet_registry
+3fca55af,S Sohal,S Sohal,2007/08; 2009; 2009/10; 2011,Deccan Chargers; Punjab Kings,cricsheet_registry
+6b8eb6e5,S Sreesanth,S Sreesanth,2007/08; 2009; 2009/10; 2011; 2013,Kochi Tuskers Kerala; Punjab Kings; Rajasthan Royals,cricsheet_registry
+64a4c383,S Sriram,S Sriram,2009/10; 2011,Delhi Capitals; Royal Challengers Bengaluru,cricsheet_registry
+c24a2c5d,S Tyagi,S Tyagi,2009; 2009/10,Chennai Super Kings,cricsheet_registry
+756389bd,S Vidyut,S Vidyut,2007/08,Chennai Super Kings,cricsheet_registry
+1a2676c5,SA Abbott,SA Abbott,2015; 2022,Royal Challengers Bengaluru; Sunrisers Hyderabad,cricsheet_registry
+ae091d39,SA Asnodkar,SA Asnodkar,2007/08; 2009; 2009/10; 2011,Rajasthan Royals,cricsheet_registry
+271f83cd,SA Yadav,SA Yadav,2012; 2014; 2015; 2016; 2017; 2018; 2019; 2020/21; 2021; 2022; 2023; 2024; 2025; 2026,Kolkata Knight Riders; Mumbai Indians,cricsheet_registry
+0604ef16,SB Bangar,SB Bangar,2007/08; 2009,Deccan Chargers; Kolkata Knight Riders,cricsheet_registry
+6b2ff18f,SB Dubey,SB Dubey,2024; 2025; 2026,Rajasthan Royals,cricsheet_registry
+c8179c68,SB Jakati,SB Jakati,2009; 2009/10; 2011; 2012; 2014; 2016; 2017,Chennai Super Kings; Gujarat Lions; Royal Challengers Bengaluru,cricsheet_registry
+670709ec,SB Joshi,SB Joshi,2007/08,Royal Challengers Bengaluru,cricsheet_registry
+57efa3be,SB Styris,SB Styris,2007/08; 2009; 2011,Chennai Super Kings; Deccan Chargers,cricsheet_registry
+dddca1d6,SB Wagh,SB Wagh,2009/10; 2011,Pune Warriors India; Rajasthan Royals,cricsheet_registry
+725529bc,SC Ganguly,SC Ganguly,2007/08; 2009; 2009/10; 2011; 2012,Kolkata Knight Riders; Pune Warriors India,cricsheet_registry
+fef92afc,SC Kuggeleijn,SC Kuggeleijn,2019,Chennai Super Kings,cricsheet_registry
+facb9086,SD Chitnis,SD Chitnis,2007/08; 2009; 2011; 2012,Mumbai Indians; Punjab Kings; Rajasthan Royals,cricsheet_registry
+1fc6ef83,SD Hope,SD Hope,2024,Delhi Capitals,cricsheet_registry
+9601c534,SD Lad,SD Lad,2019,Mumbai Indians,cricsheet_registry
+4f629497,SE Bond,SE Bond,2009/10,Kolkata Knight Riders,cricsheet_registry
+508a1ea7,SE Marsh,SE Marsh,2007/08; 2009/10; 2011; 2012; 2013; 2014; 2015; 2016; 2017,Punjab Kings,cricsheet_registry
+d014d5ac,SE Rutherford,SE Rutherford,2019; 2022; 2025; 2026,Delhi Capitals; Gujarat Titans; Mumbai Indians; Royal Challengers Bengaluru,cricsheet_registry
+83c3e8e3,SH Johnson,SH Johnson,2024; 2025; 2026,Chennai Super Kings; Gujarat Titans; Kolkata Knight Riders,cricsheet_registry
+2049f3a0,SJ Srivastava,SJ Srivastava,2009/10; 2011,Punjab Kings,cricsheet_registry
+1dc12ab9,SK Raina,SK Raina,2007/08; 2009; 2009/10; 2011; 2012; 2013; 2014; 2015; 2016; 2017; 2018; 2019; 2021,Chennai Super Kings; Gujarat Lions,cricsheet_registry
+cbf58a86,SK Rasheed,SK Rasheed,2023; 2025,Chennai Super Kings,cricsheet_registry
+3d7e087f,SK Trivedi,SK Trivedi,2007/08; 2009; 2009/10; 2011; 2012; 2013,Rajasthan Royals,cricsheet_registry
+bb18be76,SK Warne,SK Warne,2007/08; 2009; 2009/10; 2011,Rajasthan Royals,cricsheet_registry
+a12e1d51,SL Malinga,SL Malinga,2009; 2009/10; 2011; 2012; 2013; 2014; 2015; 2017; 2019,Mumbai Indians,cricsheet_registry
+d167edd3,SM Boland,SM Boland,2016,Rising Pune Supergiants,cricsheet_registry
+e94915e6,SM Curran,SM Curran,2019; 2020/21; 2021; 2023; 2024; 2025,Chennai Super Kings; Punjab Kings,cricsheet_registry
+63bff7f9,SM Harwood,SM Harwood,2009,Rajasthan Royals,cricsheet_registry
+fdedb37c,SM Katich,SM Katich,2007/08; 2009,Punjab Kings,cricsheet_registry
+88fccd6c,SM Pollock,SM Pollock,2007/08,Mumbai Indians,cricsheet_registry
+4c4fa80b,SMSM Senanayake,SMSM Senanayake,2013,Kolkata Knight Riders,cricsheet_registry
+f088b960,SN Khan,SN Khan,2015; 2016; 2018; 2019; 2020/21; 2021; 2022; 2023; 2026,Chennai Super Kings; Delhi Capitals; Punjab Kings; Royal Challengers Bengaluru,cricsheet_registry
+1abb78f8,SN Thakur,SN Thakur,2015; 2017; 2018; 2019; 2020/21; 2021; 2022; 2023; 2024; 2025; 2026,Chennai Super Kings; Delhi Capitals; Kolkata Knight Riders; Lucknow Super Giants; Mumbai Indians; Punjab Kings; Rising Pune Supergiants,cricsheet_registry
+48a1d7b7,SO Hetmyer,SO Hetmyer,2019; 2020/21; 2021; 2022; 2023; 2024; 2025; 2026,Delhi Capitals; Rajasthan Royals; Royal Challengers Bengaluru,cricsheet_registry
+eea6b7f1,SP Fleming,SP Fleming,2007/08,Chennai Super Kings,cricsheet_registry
+541f85c9,SP Goswami,SP Goswami,2007/08; 2009; 2009/10; 2011; 2012; 2018; 2020/21,Kolkata Knight Riders; Rajasthan Royals; Royal Challengers Bengaluru; Sunrisers Hyderabad,cricsheet_registry
+acc1aeda,SP Jackson,SP Jackson,2017; 2022,Kolkata Knight Riders,cricsheet_registry
+9d430b40,SP Narine,SP Narine,2012; 2013; 2014; 2015; 2016; 2017; 2018; 2019; 2020/21; 2021; 2022; 2023; 2024; 2025; 2026,Kolkata Knight Riders,cricsheet_registry
+30a45b23,SPD Smith,SPD Smith,2012; 2013; 2014; 2015; 2016; 2017; 2019; 2020/21; 2021,Delhi Capitals; Pune Warriors India; Rajasthan Royals; Rising Pune Supergiants,cricsheet_registry
+11061889,SR Dubey,SR Dubey,2026,Kolkata Knight Riders,cricsheet_registry
+d2c2b2d5,SR Tendulkar,SR Tendulkar,2007/08; 2009; 2009/10; 2011; 2012; 2013,Mumbai Indians,cricsheet_registry
+4329fbb5,SR Watson,SR Watson,2007/08; 2009/10; 2011; 2012; 2013; 2014; 2015; 2016; 2017; 2018; 2019; 2020/21,Chennai Super Kings; Rajasthan Royals; Royal Challengers Bengaluru,cricsheet_registry
+b51f72a5,SS Agarwal,SS Agarwal,2017,Gujarat Lions,cricsheet_registry
+a1d053dd,SS Cottrell,SS Cottrell,2020/21,Punjab Kings,cricsheet_registry
+85ec8e33,SS Iyer,SS Iyer,2015; 2016; 2017; 2018; 2019; 2020/21; 2021; 2022; 2024; 2025; 2026,Delhi Capitals; Kolkata Knight Riders; Punjab Kings,cricsheet_registry
+92500ad5,SS Mishra,SS Mishra,2026,Rajasthan Royals,cricsheet_registry
+9385de2e,SS Prabhudessai,SS Prabhudessai,2022; 2023; 2024,Royal Challengers Bengaluru,cricsheet_registry
+caa89a48,SS Sarkar,SS Sarkar,2009,Kolkata Knight Riders,cricsheet_registry
+5f5d3ad4,SS Shaikh,SS Shaikh,2009,Kolkata Knight Riders,cricsheet_registry
+709b0bac,SS Tiwary,SS Tiwary,2007/08; 2009; 2009/10; 2011; 2012; 2013; 2015; 2016; 2017; 2020/21; 2021,Delhi Capitals; Mumbai Indians; Rising Pune Supergiants; Royal Challengers Bengaluru,cricsheet_registry
+8361e524,SSB Magala,SSB Magala,2023,Chennai Super Kings,cricsheet_registry
+f233bbb4,ST Jayasuriya,ST Jayasuriya,2007/08; 2009; 2009/10,Mumbai Indians,cricsheet_registry
+bd17b45f,STR Binny,STR Binny,2009/10; 2011; 2012; 2013; 2014; 2015; 2016; 2017; 2018; 2019,Mumbai Indians; Rajasthan Royals; Royal Challengers Bengaluru,cricsheet_registry
+926c7443,SU Parakh,SU Parakh,2026,Delhi Capitals,cricsheet_registry
+a4cc73aa,SV Samson,SV Samson,2013; 2014; 2015; 2016; 2017; 2018; 2019; 2020/21; 2021; 2022; 2023; 2024; 2025; 2026,Chennai Super Kings; Delhi Capitals; Rajasthan Royals,cricsheet_registry
+c16d4035,SW Billings,SW Billings,2016; 2017; 2018; 2019; 2022,Chennai Super Kings; Delhi Capitals; Kolkata Knight Riders,cricsheet_registry
+addfb70e,SW Tait,SW Tait,2009/10; 2011; 2012; 2013,Rajasthan Royals,cricsheet_registry
+9d704f6f,SZ Mulani,SZ Mulani,2024,Mumbai Indians,cricsheet_registry
+dc9dd038,Sachin Baby,Sachin Baby,2013; 2016; 2017; 2021,Rajasthan Royals; Royal Challengers Bengaluru,cricsheet_registry
+280fff14,Sakib Hussain,Sakib Hussain,2026,Sunrisers Hyderabad,cricsheet_registry
+4d6d6280,Salman Butt,Salman Butt,2007/08,Kolkata Knight Riders,cricsheet_registry
+f89d3b11,Sameer Rizvi,Sameer Rizvi,2024; 2025; 2026,Chennai Super Kings; Delhi Capitals,cricsheet_registry
+ce820073,Sandeep Sharma,Sandeep Sharma,2013; 2014; 2015; 2016; 2017; 2018; 2019; 2020/21; 2021; 2022; 2023; 2024; 2025; 2026,Punjab Kings; Rajasthan Royals; Sunrisers Hyderabad,cricsheet_registry
+b0f2baf4,Sanvir Singh,Sanvir Singh,2023; 2024,Sunrisers Hyderabad,cricsheet_registry
+9e7225b0,Saurav Chauhan,Saurav Chauhan,2024,Royal Challengers Bengaluru,cricsheet_registry
+3c28853f,Sediqullah Atal,Sediqullah Atal,2025,Delhi Capitals,cricsheet_registry
+f9e6e7ef,Shahbaz Ahmed,Shahbaz Ahmed,2020/21; 2021; 2022; 2023; 2024; 2025; 2026,Lucknow Super Giants; Royal Challengers Bengaluru; Sunrisers Hyderabad,cricsheet_registry
+0dc00542,Shahid Afridi,Shahid Afridi,2007/08,Deccan Chargers,cricsheet_registry
+7dc35884,Shakib Al Hasan,Shakib Al Hasan,2011; 2012; 2014; 2015; 2016; 2017; 2018; 2019; 2021,Kolkata Knight Riders; Sunrisers Hyderabad,cricsheet_registry
+26989d80,Shashank Singh,Shashank Singh,2022; 2024; 2025; 2026,Punjab Kings; Sunrisers Hyderabad,cricsheet_registry
+c38d3503,Shivam Mavi,Shivam Mavi,2018; 2020/21; 2021; 2022; 2023,Gujarat Titans; Kolkata Knight Riders,cricsheet_registry
+6f49cc6e,Shivam Sharma,Shivam Sharma,2014; 2015,Punjab Kings,cricsheet_registry
+e1d9ae9c,Shivam Singh,Shivam Singh,2024,Punjab Kings,cricsheet_registry
+7b44eb3e,Shivang Kumar,Shivang Kumar,2026,Sunrisers Hyderabad,cricsheet_registry
+8a668774,Shoaib Ahmed,Shoaib Ahmed,2009,Deccan Chargers,cricsheet_registry
+10a91f35,Shoaib Akhtar,Shoaib Akhtar,2007/08,Kolkata Knight Riders,cricsheet_registry
+64c34cd0,Shoaib Malik,Shoaib Malik,2007/08,Delhi Capitals,cricsheet_registry
+b4b99816,Shubman Gill,Shubman Gill,2018; 2019; 2020/21; 2021; 2022; 2023; 2024; 2025; 2026,Gujarat Titans; Kolkata Knight Riders,cricsheet_registry
+26d041c4,Sikandar Raza,Sikandar Raza,2023; 2024,Punjab Kings,cricsheet_registry
+30df8c66,Simarjeet Singh,Simarjeet Singh,2022; 2024; 2025,Chennai Super Kings; Sunrisers Hyderabad,cricsheet_registry
+64d43928,Sohail Tanvir,Sohail Tanvir,2007/08,Rajasthan Royals,cricsheet_registry
+6ab96cc2,Sonu Yadav,Sonu Yadav,2023,Royal Challengers Bengaluru,cricsheet_registry
+0edcb652,Subhransu Senapati,Subhransu Senapati,2023,Chennai Super Kings,cricsheet_registry
+8998a68f,Sumit Kumar,Sumit Kumar,2024,Delhi Capitals,cricsheet_registry
+ee3dfa89,Sunny Gupta,Sunny Gupta,2012,Delhi Capitals,cricsheet_registry
+30e37810,Sunny Singh,Sunny Singh,2011,Punjab Kings,cricsheet_registry
+970ddd24,Suryansh Shedge,Suryansh Shedge,2025; 2026,Punjab Kings,cricsheet_registry
+9440ef41,Suyash Sharma,Suyash Sharma,2023; 2024; 2025; 2026,Kolkata Knight Riders; Royal Challengers Bengaluru,cricsheet_registry
+983f2f61,Swapnil Singh,Swapnil Singh,2016; 2017; 2023; 2024,Lucknow Super Giants; Punjab Kings; Royal Challengers Bengaluru,cricsheet_registry
+25f7b7d6,T Banton,T Banton,2020/21,Kolkata Knight Riders,cricsheet_registry
+f12fe2a1,T Dahiya,T Dahiya,2026,Kolkata Knight Riders,cricsheet_registry
+0a4ebc61,T Henderson,T Henderson,2009,Rajasthan Royals,cricsheet_registry
+f836b33d,T Kohler-Cadmore,T Kohler-Cadmore,2024,Rajasthan Royals,cricsheet_registry
+40caa465,T Kohli,T Kohli,2007/08; 2009,Punjab Kings; Rajasthan Royals,cricsheet_registry
+c9cac448,T Mishra,T Mishra,2012,Deccan Chargers,cricsheet_registry
+ce794613,T Natarajan,T Natarajan,2017; 2020/21; 2021; 2022; 2023; 2024; 2025; 2026,Delhi Capitals; Punjab Kings; Sunrisers Hyderabad,cricsheet_registry
+a03bba42,T Shamsi,T Shamsi,2016; 2021,Rajasthan Royals; Royal Challengers Bengaluru,cricsheet_registry
+85b3fab2,T Stubbs,T Stubbs,2022; 2023; 2024; 2025; 2026,Delhi Capitals; Mumbai Indians,cricsheet_registry
+75de770f,T Taibu,T Taibu,2007/08,Kolkata Knight Riders,cricsheet_registry
+b2ae53f5,T Thushara,T Thushara,2009; 2009/10,Chennai Super Kings,cricsheet_registry
+51ec3919,T Vijay,T Vijay,2025; 2026,Delhi Capitals,cricsheet_registry
+a818c1be,TA Boult,TA Boult,2015; 2016; 2017; 2018; 2019; 2020/21; 2021; 2022; 2023; 2024; 2025; 2026,Delhi Capitals; Kolkata Knight Riders; Mumbai Indians; Rajasthan Royals; Sunrisers Hyderabad,cricsheet_registry
+5748e866,TD Paine,TD Paine,2011,Pune Warriors India,cricsheet_registry
+13c35c9e,TG Southee,TG Southee,2011; 2014; 2015; 2016; 2017; 2018; 2019; 2021; 2022; 2023,Chennai Super Kings; Kolkata Knight Riders; Mumbai Indians; Rajasthan Royals; Royal Challengers Bengaluru,cricsheet_registry
+f1f99156,TH David,TH David,2021; 2022; 2023; 2024; 2025; 2026,Mumbai Indians; Royal Challengers Bengaluru,cricsheet_registry
+e86754b2,TK Curran,TK Curran,2018; 2020/21; 2021,Delhi Capitals; Kolkata Knight Riders; Rajasthan Royals,cricsheet_registry
+4663bd23,TL Seifert,TL Seifert,2021; 2022; 2026,Delhi Capitals; Kolkata Knight Riders,cricsheet_registry
+aaa1b522,TL Suman,TL Suman,2009; 2009/10; 2011; 2012; 2013,Deccan Chargers; Mumbai Indians; Pune Warriors India,cricsheet_registry
+5bdcdb72,TM Dilshan,TM Dilshan,2007/08; 2009; 2009/10; 2011; 2012; 2013,Delhi Capitals; Royal Challengers Bengaluru,cricsheet_registry
+12b610c2,TM Head,TM Head,2016; 2017; 2024; 2025; 2026,Royal Challengers Bengaluru; Sunrisers Hyderabad,cricsheet_registry
+a76d10ba,TM Srivastava,TM Srivastava,2007/08; 2009,Punjab Kings,cricsheet_registry
+2f3817ce,TP Sudhindra,TP Sudhindra,2012,Deccan Chargers,cricsheet_registry
+d2d4bb0a,TR Birt,TR Birt,2011,Delhi Capitals,cricsheet_registry
+245c97cb,TS Mills,TS Mills,2017; 2022,Mumbai Indians; Royal Challengers Bengaluru,cricsheet_registry
+46a9bea1,TU Deshpande,TU Deshpande,2020/21; 2022; 2023; 2024; 2025; 2026,Chennai Super Kings; Delhi Capitals; Rajasthan Royals,cricsheet_registry
+f1809c03,Tanay Thyagarajan,Tanay Thyagarajan,2024,Punjab Kings,cricsheet_registry
+5724e517,Tanush Kotian,Tanush Kotian,2024,Rajasthan Royals,cricsheet_registry
+c28e9f12,Tejas Baroka,Tejas Baroka,2017,Gujarat Lions,cricsheet_registry
+b0482a1d,Tilak Varma,Tilak Varma,2022; 2023; 2024; 2025; 2026,Mumbai Indians,cricsheet_registry
+622cc511,U Kaul,U Kaul,2007/08,Punjab Kings,cricsheet_registry
+91b9300b,UA Birla,UA Birla,2013,Pune Warriors India,cricsheet_registry
+0c94f480,UBT Chand,UBT Chand,2011; 2012; 2013; 2014; 2015; 2016,Delhi Capitals; Mumbai Indians; Rajasthan Royals,cricsheet_registry
+331ea488,UT Khawaja,UT Khawaja,2016,Rising Pune Supergiants,cricsheet_registry
+cc1e8c68,UT Yadav,UT Yadav,2009/10; 2011; 2012; 2013; 2014; 2015; 2016; 2017; 2018; 2019; 2020/21; 2022; 2023; 2024,Delhi Capitals; Gujarat Titans; Kolkata Knight Riders; Royal Challengers Bengaluru,cricsheet_registry
+16dfcc19,Umar Gul,Umar Gul,2007/08,Kolkata Knight Riders,cricsheet_registry
+81c08fa3,Umran Malik,Umran Malik,2021; 2022; 2023; 2024,Sunrisers Hyderabad,cricsheet_registry
+cf59b3f0,Urvil Patel,Urvil Patel,2025; 2026,Chennai Super Kings,cricsheet_registry
+d4d929b0,V Kaverappa,V Kaverappa,2024,Punjab Kings,cricsheet_registry
+ba607b88,V Kohli,V Kohli,2007/08; 2009; 2009/10; 2011; 2012; 2013; 2014; 2015; 2016; 2017; 2018; 2019; 2020/21; 2021; 2022; 2023; 2024; 2025; 2026,Royal Challengers Bengaluru,cricsheet_registry
+5ffc0565,V Nigam,V Nigam,2025; 2026,Delhi Capitals,cricsheet_registry
+d718440b,V Pratap Singh,V Pratap Singh,2012,Deccan Chargers,cricsheet_registry
+1e030637,V Puthur,V Puthur,2025,Mumbai Indians,cricsheet_registry
+8ba8195d,V Sehwag,V Sehwag,2007/08; 2009; 2009/10; 2011; 2012; 2013; 2014; 2015,Delhi Capitals; Punjab Kings,cricsheet_registry
+0994d0ae,V Shankar,V Shankar,2014; 2016; 2017; 2018; 2019; 2020/21; 2021; 2022; 2023; 2024; 2025,Chennai Super Kings; Delhi Capitals; Gujarat Titans; Sunrisers Hyderabad,cricsheet_registry
+470f446b,V Suryavanshi,V Suryavanshi,2025; 2026,Rajasthan Royals,cricsheet_registry
+03a83c50,V Viyaskanth,V Viyaskanth,2024,Sunrisers Hyderabad,cricsheet_registry
+7c3b3b78,VG Arora,VG Arora,2022; 2023; 2024; 2025; 2026,Kolkata Knight Riders; Punjab Kings,cricsheet_registry
+6dbcf855,VH Zol,VH Zol,2014,Royal Challengers Bengaluru,cricsheet_registry
+0a3d54b9,VR Aaron,VR Aaron,2011; 2012; 2014; 2015; 2016; 2017; 2019; 2020/21; 2022,Delhi Capitals; Gujarat Titans; Punjab Kings; Rajasthan Royals; Royal Challengers Bengaluru,cricsheet_registry
+a24be938,VR Iyer,VR Iyer,2021; 2022; 2023; 2024; 2025; 2026,Kolkata Knight Riders; Royal Challengers Bengaluru,cricsheet_registry
+034b4b7d,VRV Singh,VRV Singh,2007/08; 2009; 2009/10,Punjab Kings,cricsheet_registry
+5f26df4f,VS Malik,VS Malik,2009; 2009/10; 2011; 2013; 2014,Punjab Kings; Rajasthan Royals,cricsheet_registry
+38f2c66c,VS Yeligati,VS Yeligati,2007/08,Mumbai Indians,cricsheet_registry
+de8cce37,VVS Laxman,VVS Laxman,2007/08; 2009; 2009/10; 2011,Deccan Chargers; Kochi Tuskers Kerala,cricsheet_registry
+93a17209,VY Mahesh,VY Mahesh,2007/08; 2009; 2009/10; 2012,Chennai Super Kings; Delhi Capitals,cricsheet_registry
+54e52590,Vijaykumar Vyshak,Vijaykumar Vyshak,2023; 2024; 2025; 2026,Punjab Kings; Royal Challengers Bengaluru,cricsheet_registry
+26d76ad9,Virat Singh,Virat Singh,2021,Sunrisers Hyderabad,cricsheet_registry
+0494fa6e,Vishnu Vinod,Vishnu Vinod,2017; 2023; 2026,Mumbai Indians; Punjab Kings; Royal Challengers Bengaluru,cricsheet_registry
+1b7b0fa7,Vivrant Sharma,Vivrant Sharma,2023,Sunrisers Hyderabad,cricsheet_registry
+619aa81f,W Jaffer,W Jaffer,2007/08; 2009,Royal Challengers Bengaluru,cricsheet_registry
+cb9b8664,W O'Rourke,W O'Rourke,2025,Lucknow Super Giants,cricsheet_registry
+3dba85c2,WA Mota,WA Mota,2007/08; 2009,Punjab Kings,cricsheet_registry
+3a60e0b5,WD Parnell,WD Parnell,2011; 2012; 2013; 2014; 2023,Delhi Capitals; Pune Warriors India; Royal Challengers Bengaluru,cricsheet_registry
+9caf69a1,WG Jacks,WG Jacks,2024; 2025; 2026,Mumbai Indians; Royal Challengers Bengaluru,cricsheet_registry
+fe11caa6,WP Saha,WP Saha,2007/08; 2009; 2009/10; 2011; 2012; 2013; 2014; 2015; 2016; 2017; 2018; 2019; 2020/21; 2021; 2022; 2023; 2024,Chennai Super Kings; Gujarat Titans; Kolkata Knight Riders; Punjab Kings; Sunrisers Hyderabad,cricsheet_registry
+bcce309e,WPUJC Vaas,WPUJC Vaas,2007/08; 2009; 2009/10,Deccan Chargers,cricsheet_registry
+f19ccfad,Washington Sundar,Washington Sundar,2017; 2018; 2019; 2020/21; 2021; 2022; 2023; 2024; 2025; 2026,Gujarat Titans; Rising Pune Supergiants; Royal Challengers Bengaluru; Sunrisers Hyderabad,cricsheet_registry
+1763bc6c,X Thalaivan Sargunam,X Thalaivan Sargunam,2013,Sunrisers Hyderabad,cricsheet_registry
+3b53243a,XC Bartlett,XC Bartlett,2025; 2026,Punjab Kings,cricsheet_registry
+bae11797,Y Gnaneswara Rao,Y Gnaneswara Rao,2011,Kochi Tuskers Kerala,cricsheet_registry
+662c47a6,Y Nagar,Y Nagar,2009; 2009/10; 2011; 2012,Delhi Capitals,cricsheet_registry
+cfa4bd2b,Y Prithvi Raj,Y Prithvi Raj,2019,Kolkata Knight Riders,cricsheet_registry
+fe763256,Y Venugopal Rao,Y Venugopal Rao,2007/08; 2009; 2009/10; 2011; 2012; 2013; 2014,Deccan Chargers; Delhi Capitals; Sunrisers Hyderabad,cricsheet_registry
+4353bba5,YA Abdulla,YA Abdulla,2009; 2009/10,Punjab Kings,cricsheet_registry
+6c19c6e5,YBK Jaiswal,YBK Jaiswal,2020/21; 2021; 2022; 2023; 2024; 2025; 2026,Rajasthan Royals,cricsheet_registry
+3c6ffae8,YK Pathan,YK Pathan,2007/08; 2009; 2009/10; 2011; 2012; 2013; 2014; 2015; 2016; 2017; 2018; 2019,Kolkata Knight Riders; Rajasthan Royals; Sunrisers Hyderabad,cricsheet_registry
+57ee1fde,YS Chahal,YS Chahal,2013; 2014; 2015; 2016; 2017; 2018; 2019; 2020/21; 2021; 2022; 2023; 2024; 2025; 2026,Mumbai Indians; Punjab Kings; Rajasthan Royals; Royal Challengers Bengaluru,cricsheet_registry
+dd7e9b3b,YV Dhull,YV Dhull,2023,Delhi Capitals,cricsheet_registry
+4e04666c,YV Takawale,YV Takawale,2007/08; 2009; 2014,Mumbai Indians; Royal Challengers Bengaluru,cricsheet_registry
+7210d461,Yash Dayal,Yash Dayal,2022; 2023; 2024; 2025,Gujarat Titans; Royal Challengers Bengaluru,cricsheet_registry
+02dfebbe,Yash Raj Punja,Yash Raj Punja,2026,Rajasthan Royals,cricsheet_registry
+4b31f3a3,Yash Thakur,Yash Thakur,2023; 2024; 2025; 2026,Lucknow Super Giants; Punjab Kings,cricsheet_registry
+297b26da,Yashpal Singh,Yashpal Singh,2009,Kolkata Knight Riders,cricsheet_registry
+33cb3411,Younis Khan,Younis Khan,2007/08,Rajasthan Royals,cricsheet_registry
+4885bbe6,Yudhvir Singh,Yudhvir Singh,2023; 2024; 2025,Lucknow Super Giants; Rajasthan Royals,cricsheet_registry
+1c914163,Yuvraj Singh,Yuvraj Singh,2007/08; 2009; 2009/10; 2011; 2013; 2014; 2015; 2016; 2017; 2018; 2019,Delhi Capitals; Mumbai Indians; Pune Warriors India; Punjab Kings; Royal Challengers Bengaluru; Sunrisers Hyderabad,cricsheet_registry
+91a4a398,Z Khan,Z Khan,2007/08; 2009; 2009/10; 2011; 2012; 2013; 2014; 2015; 2016; 2017,Delhi Capitals; Mumbai Indians; Royal Challengers Bengaluru,cricsheet_registry
+36619795,Zeeshan Ansari,Zeeshan Ansari,2025,Sunrisers Hyderabad,cricsheet_registry

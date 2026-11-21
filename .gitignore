@@ -1,0 +1,20 @@
+.venv/
+venv/
+env/
+__pycache__/
+**/__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+.streamlit/secrets.toml
+.env
+.env.*
+*.log
+# IDE
+.vscode/
+
+# OS
+Thumbs.db
+
+# Raw source archive is not required at Streamlit runtime.
+data/raw/cricsheet_ipl/
